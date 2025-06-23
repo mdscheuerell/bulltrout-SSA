@@ -1,0 +1,838 @@
+state,dataset,recovery_unit,core_area,popn_stream,metric,source,year,value
+ID,2,Upper Snake,Little-Lower Salmon River,Rapid River,abundance,screw_trap,2008,390
+ID,2,Upper Snake,Little-Lower Salmon River,Rapid River,abundance,screw_trap,2009,446
+ID,2,Upper Snake,Little-Lower Salmon River,Rapid River,abundance,screw_trap,2010,197
+ID,2,Upper Snake,Little-Lower Salmon River,Rapid River,abundance,screw_trap,2011,319
+ID,2,Upper Snake,Little-Lower Salmon River,Rapid River,abundance,screw_trap,2012,414
+ID,2,Upper Snake,Little-Lower Salmon River,Rapid River,abundance,screw_trap,2013,311
+ID,2,Upper Snake,Little-Lower Salmon River,Rapid River,abundance,screw_trap,2014,223
+ID,2,Upper Snake,Little-Lower Salmon River,Rapid River,abundance,screw_trap,2015,310
+ID,2,Upper Snake,Little-Lower Salmon River,Rapid River,abundance,screw_trap,2016,143
+ID,2,Upper Snake,Little-Lower Salmon River,Rapid River,abundance,screw_trap,2017,220
+ID,2,Upper Snake,Little-Lower Salmon River,Rapid River,abundance,screw_trap,2018,409
+ID,2,Upper Snake,Little-Lower Salmon River,Rapid River,abundance,screw_trap,2019,213
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1985,0.2652324542022546
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1986,NA
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1987,0.1084010840108401
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1988,NA
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1989,0.001
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1990,0.001
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1991,0.001
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1992,2.650248926866896
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1993,0.24705193129461706
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1994,0.3152288292388199
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1995,0.2405446958686699
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1996,0.21577935435703932
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1997,0.3488704359105424
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1998,0.6217625769936961
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1999,0.33144296931421685
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2000,0.05759827442415487
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2001,0.39134270696493967
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2002,0.5678929547348956
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2003,0.001
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2004,0.49157820303417255
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2005,0.1279623792429151
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2006,0.1715430628495047
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2007,0.5155110487126561
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2008,0.13929947367815515
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2009,0.11995994503253588
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2010,0.49482697974433026
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2011,0.04909743462033921
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2012,0.04314882894078255
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2013,0.020358130044681004
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2014,0.32466038041318696
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2015,0.03171510197039585
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2016,0.0227060425774628
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2017,0.1316911307272846
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2018,0.001
+ID,3,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,2019,0.0453449891512157
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,1998,7
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,1999,17
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2000,16
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2001,15
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2002,4
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2003,8
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2004,9
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2005,3
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2006,3
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2007,3
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2008,3
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2009,19
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2010,6
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2011,13
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2012,10
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2013,12
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2014,7
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2015,6
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2016,9
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2017,7
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2018,3
+ID,4,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,2019,3
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,1992,1
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,1993,NA
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,1994,7
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,1995,NA
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,1996,NA
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,1997,NA
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,1998,6
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,1999,12
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2000,14
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2001,NA
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2002,3
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2003,2
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2004,88
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2005,65
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2006,47
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2007,125
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2008,61
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2009,59
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2010,122
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2011,52
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2012,191
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2013,70
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2014,21
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2015,15
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2016,27
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2017,77
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2018,35
+ID,5,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,2019,NA
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,1992,0.634517766497462
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,1993,0.45687134502923976
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,1994,0.12883941455370027
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,1995,0.11006427753808225
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,1996,0.001
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,1997,NA
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,1998,0.23085114610876492
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,1999,0.198866756412853
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2000,0.32119588898060053
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2001,0.035993233272144834
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2002,NA
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2003,0.0325426764659174
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2004,0.5595336630197139
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2005,0.023997665507099475
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2006,0.0754557527465894
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2007,NA
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2008,NA
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2009,NA
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2010,NA
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2011,NA
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2012,NA
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2013,NA
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2014,NA
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2015,NA
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2016,0.07217970674426362
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2017,0.037258101774230806
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2018,0.032344873984370956
+ID,6,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,2019,NA
+ID,8,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2007,226
+ID,8,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2008,229
+ID,8,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2009,199
+ID,8,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2010,407
+ID,8,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2011,384
+ID,8,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2012,217
+ID,8,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2013,160
+ID,8,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2014,166
+ID,8,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2015,137
+ID,8,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2016,62
+ID,8,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2017,148
+ID,8,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2018,62
+ID,8,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2019,46
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1986,0.09188732034765587
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1987,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1988,0.017825311942959002
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1989,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1990,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1991,0.001
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1992,0.001
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1993,0.001
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1994,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1995,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1996,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1997,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1998,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1999,0.001
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2000,0.001
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2001,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2002,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2003,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2004,0.9157599157599158
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2005,0.8280925604625027
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2006,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2007,0.09764804908962722
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2008,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2009,0.002585551370122454
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2010,0.08821645392206849
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2011,0.14164154281720231
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2012,0.06577302005333781
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2013,0.1485369878227021
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2014,0.08043758043758044
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2015,NA
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2016,0.7684731875373394
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2017,0.49680932542958534
+ID,9,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,2018,0.1626016260162602
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,1995,0.01216323055403515
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,1996,NA
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,1997,0.16270315663201254
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,1998,NA
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,1999,0.04459875614069123
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2000,NA
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2001,0.001
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2002,NA
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2003,0.11957499563430889
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2004,NA
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2005,NA
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2006,0.04593772681752616
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2007,0.14819569290220946
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2008,0.33992716606126
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2009,0.15533739281719897
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2010,0.22476534473438498
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2011,0.018444977122663075
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2012,0.0350116778528989
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2013,NA
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2014,NA
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2015,0.001
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2016,0.001
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2017,0.09568783604451238
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2018,0.02883606122472519
+ID,10,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,2019,0.001
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,1997,0.06194291533074118
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,1998,NA
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,1999,NA
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2000,NA
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2001,0.04970395565633661
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2002,0.03247791199056755
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2003,NA
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2004,0.041062552890899266
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2005,0.03246082535238596
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2006,0.042126235588138355
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2007,0.060367356870223356
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2008,0.06411143039493013
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2009,0.07078598547969964
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2010,0.07342625753773886
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2011,0.03197638858893086
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2012,0.03256560005903603
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2013,0.07033451774295033
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2014,0.051834664444924766
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2015,0.06852016307952635
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2016,0.011627906976744186
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2017,NA
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2018,0.054696621512659256
+ID,11,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,2019,0.02315636897774631
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2006,20
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2007,468
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2008,156
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2009,200
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2010,266
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2011,29
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2012,170
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2013,391
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2014,138
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2015,584
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2016,544
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2017,126
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2018,136
+ID,12,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2019,274
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2006,8
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2007,36
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2008,46
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2009,40
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2010,4
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2011,12
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2012,NA
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2013,22
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2014,2
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2015,5
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2016,12
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2017,9
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2018,20
+ID,13,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2019,18
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2002,4
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2003,1
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2004,8
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2005,1
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2006,3
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2007,5
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2008,1
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2009,7
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2010,2
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2011,NA
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2012,1
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2013,NA
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2014,1
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2015,12
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2016,16
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2017,11
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2018,6
+ID,14,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2019,15
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2004,0.9559191231436355
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2005,NA
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2006,NA
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2007,1.7318048131245902
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2008,NA
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2009,2.195015932695505
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2010,0.30927835051546393
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2011,1.1583399310730254
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2012,2.568864930164831
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2013,3.0855743225121
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2014,4.743859008309743
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2015,3.8295053814464732
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2016,3.0743514692378326
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2017,0.9684617759655754
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2018,2.1931899685815335
+ID,15,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2019,2.129688493324857
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,1998,1
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,1999,4
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2000,8
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2001,12
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2002,23
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2003,29
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2004,26
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2005,21
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2006,28
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2007,46
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2008,18
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2009,76
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2010,38
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2011,69
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2012,11
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2013,34
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2014,69
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2015,63
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2016,64
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2017,46
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2018,30
+ID,19,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,2019,38
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2004,1.791759469228055
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2005,2.2512917986064953
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2006,2.0149030205422647
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2007,2.772588722239781
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2008,2.3978952727983707
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2009,2.6479462770325046
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2010,2.431417964837014
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2011,2.70805020110221
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2012,2.8763855159214247
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2013,NA
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2014,NA
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2015,NA
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2016,NA
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2017,NA
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2018,NA
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2019,NA
+ID,20,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2020,1.6094379124341003
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,1998,0.020114942528735632
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,1999,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2000,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2001,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2002,0.05630789155100087
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2003,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2004,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2005,0.23713903231975522
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2006,0.12434621093780357
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2007,0.04130684531877267
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2008,0.20427929911068063
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2009,0.21138282007847226
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2010,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2011,0.4488727053121289
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2012,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2013,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2014,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2015,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2016,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2017,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2018,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2019,NA
+ID,21,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,2020,0.123
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,1995,2.467678487183904
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,1996,NA
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,1997,NA
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,1998,NA
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,1999,NA
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2000,NA
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2001,NA
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2002,NA
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2003,NA
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2004,2.6367965541767604
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2005,NA
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2006,7.658579585742485
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2007,NA
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2008,NA
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2009,NA
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2010,5.0662445169604755
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2011,5.39199961922738
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2012,9.954638360573327
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2013,6.230612118993125
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2014,19.43055854895502
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2015,5.2931239281841425
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2016,4.991927207717751
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2017,4.628549911232337
+ID,22,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,2018,6.454107829869501
+ID,42,Mid Columbia,South Fork Clearwater,American River,abundance,screw_trap,2004,3
+ID,42,Mid Columbia,South Fork Clearwater,American River,abundance,screw_trap,2005,2
+ID,42,Mid Columbia,South Fork Clearwater,American River,abundance,screw_trap,2006,7
+ID,42,Mid Columbia,South Fork Clearwater,American River,abundance,screw_trap,2007,10
+ID,42,Mid Columbia,South Fork Clearwater,American River,abundance,screw_trap,2008,5
+ID,42,Mid Columbia,South Fork Clearwater,American River,abundance,screw_trap,2009,8
+ID,42,Mid Columbia,South Fork Clearwater,American River,abundance,screw_trap,2010,2
+ID,42,Mid Columbia,South Fork Clearwater,American River,abundance,screw_trap,2011,9
+ID,42,Mid Columbia,South Fork Clearwater,American River,abundance,screw_trap,2012,34
+ID,42,Mid Columbia,South Fork Clearwater,American River,abundance,screw_trap,2013,4
+ID,42,Mid Columbia,South Fork Clearwater,American River,abundance,screw_trap,2014,6
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,1994,10
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,1995,NA
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,1996,NA
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,1997,2
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,1998,12
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,1999,6
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2000,7
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2001,NA
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2002,2
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2003,NA
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2004,29
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2005,3
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2006,6
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2007,11
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2008,14
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2009,6
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2010,31
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2011,26
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2012,15
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2013,12
+ID,43,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,2014,10
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,1999,6
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2000,14
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2001,13
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2002,6
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2003,3
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2004,20
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2005,11
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2006,9
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2007,14
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2008,8
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2009,13
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2010,7
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2011,15
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2012,24
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2013,10
+ID,44,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,2014,11
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,1992,17
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,1993,11
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,1994,19
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,1995,16
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,1996,20
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,1997,18
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,1998,15
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,1999,NA
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2000,17
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2001,40
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2002,9
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2003,11
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2004,10
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2005,3
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2006,12
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2007,34
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2008,27
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2009,32
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2010,27
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2011,67
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2012,44
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2013,16
+ID,45,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,2014,7
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,1997,122
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,1998,59
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,1999,916
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2000,933
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2001,1019
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2002,50
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2003,56
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2004,478
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2005,573
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2006,298
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2007,554
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2008,609
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2009,553
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2010,295
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2011,330
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2012,477
+ID,46,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,2013,469
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,1997,102
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,1998,13
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,1999,128
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2000,208
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2001,106
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2002,1
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2003,5
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2004,109
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2005,105
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2006,135
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2007,98
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2008,71
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2009,105
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2010,106
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2011,128
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2012,241
+ID,47,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,2013,235
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,1992,6
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,1993,64
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,1994,25
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,1995,4
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,1996,10
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,1997,17
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,1998,6
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,1999,51
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2000,33
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2001,58
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2002,84
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2003,72
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2004,138
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2005,87
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2006,106
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2007,46
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2008,85
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2009,108
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2010,92
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2011,86
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2012,100
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2013,101
+ID,48,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,2014,89
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,1993,60
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,1994,45
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,1995,9
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,1996,NA
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,1997,13
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,1998,13
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,1999,17
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2000,2
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2001,30
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2002,45
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2003,61
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2004,28
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2005,12
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2006,26
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2007,21
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2008,27
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2009,42
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2010,43
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2011,34
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2012,23
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2013,46
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2014,18
+ID,49,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,2015,24
+ID,50,Upper Snake,Middle Fork Salmon River,Marsh Creek lower trap),abundance,screw_trap,2010,18
+ID,50,Upper Snake,Middle Fork Salmon River,Marsh Creek lower trap),abundance,screw_trap,2011,23
+ID,50,Upper Snake,Middle Fork Salmon River,Marsh Creek lower trap),abundance,screw_trap,2012,16
+ID,50,Upper Snake,Middle Fork Salmon River,Marsh Creek lower trap),abundance,screw_trap,2013,21
+ID,50,Upper Snake,Middle Fork Salmon River,Marsh Creek lower trap),abundance,screw_trap,2014,16
+ID,50,Upper Snake,Middle Fork Salmon River,Marsh Creek lower trap),abundance,screw_trap,2015,12
+ID,50,Upper Snake,Middle Fork Salmon River,Marsh Creek lower trap),abundance,screw_trap,2016,6
+ID,50,Upper Snake,Middle Fork Salmon River,Marsh Creek lower trap),abundance,screw_trap,2017,11
+ID,50,Upper Snake,Middle Fork Salmon River,Marsh Creek lower trap),abundance,screw_trap,2018,9
+ID,50,Upper Snake,Middle Fork Salmon River,Marsh Creek lower trap),abundance,screw_trap,2019,7
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,1993,64
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,1994,NA
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,1995,19
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,1996,8
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,1997,NA
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,1998,NA
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,1999,7
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2000,28
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2001,16
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2002,5
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2003,4
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2004,5
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2005,24
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2006,15
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2007,32
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2008,65
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2009,21
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2010,22
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2011,87
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2012,17
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2013,29
+ID,51,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,2014,32
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,1998,33
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,1999,31
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2000,9
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2001,NA
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2002,8
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2003,10
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2004,11
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2005,16
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2006,38
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2007,77
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2008,24
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2009,25
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2010,2
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2011,289
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2012,3
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2013,94
+ID,52,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,2014,135
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,1993,1
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,1994,2
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,1995,NA
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,1996,1
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,1997,2
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,1998,1
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,1999,NA
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2000,NA
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2001,2
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2002,1
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2003,1
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2004,NA
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2005,5
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2006,1
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2007,2
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2008,4
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2009,1
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2010,NA
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2011,5
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2012,4
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2013,6
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2014,NA
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2015,2
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2016,1
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2017,NA
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2018,6
+ID,53,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,2019,2
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,1996,26
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,1997,78
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,1998,78
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,1999,85
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2000,121
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2001,208
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2002,83
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2003,86
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2004,180
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2005,206
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2006,135
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2007,189
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2008,218
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2009,298
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2010,185
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2011,183
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2012,248
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2013,NA
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2014,201
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2015,NA
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2016,NA
+OR,9,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,2017,83
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2005,1
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2006,10
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2007,43
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2008,77
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2009,19
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2010,17
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2011,54
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2012,9
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2013,17
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2014,147
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2015,16
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2016,16
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2017,4
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2018,4
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2019,2
+WA,39,Coastal,Dungeness,Dungeness,abundance,trap_count,2020,3
+WA,41,Coastal,Skokomish River,NF Skokomish,abundance,snorkel,2012,194
+WA,41,Coastal,Skokomish River,NF Skokomish,abundance,snorkel,2013,194
+WA,41,Coastal,Skokomish River,NF Skokomish,abundance,snorkel,2014,137
+WA,41,Coastal,Skokomish River,NF Skokomish,abundance,snorkel,2015,143
+WA,41,Coastal,Skokomish River,NF Skokomish,abundance,snorkel,2016,163
+WA,41,Coastal,Skokomish River,NF Skokomish,abundance,snorkel,2017,197
+WA,41,Coastal,Skokomish River,NF Skokomish,abundance,snorkel,2018,265
+WA,41,Coastal,Skokomish River,NF Skokomish,abundance,snorkel,2019,255
+WA,41,Coastal,Skokomish River,NF Skokomish,abundance,snorkel,2020,338
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2004,4
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2005,10
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2006,9
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2007,5
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2008,1
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2009,2
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2010,0
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2011,1
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2012,1
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2013,1
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2014,0
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2015,1
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2016,0
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2017,2
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2018,0
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2019,0
+WA,992,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2020,0
+WA,1039,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,abundance,snorkel,2015,3
+WA,1039,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,abundance,snorkel,2016,14
+WA,1039,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,abundance,snorkel,2017,7
+WA,1039,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,abundance,snorkel,2018,11
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,1998,1
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,1999,0
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2000,4
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2001,3
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2002,4
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2003,4
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2004,18
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2005,3
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2006,6
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2007,9
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2008,26
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2009,29
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2010,8
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2011,5
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2012,4
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2013,30
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2014,3
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2015,3
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2016,0
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2017,1
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2018,1
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2019,0
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,2020,8
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,1998,1
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,1999,0
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2000,4
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2001,3
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2002,4
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2003,4
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2004,18
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2005,3
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2006,6
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2007,9
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2008,26
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2009,29
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2010,8
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2011,5
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2012,4
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2013,30
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2014,3
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2015,3
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2016,0
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2017,1
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2018,1
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2019,0
+WA,1040,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,2020,8
+WA,1041,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2008,91
+WA,1041,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2009,48
+WA,1041,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2010,30
+WA,1041,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2011,56
+WA,1041,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2012,53
+WA,1041,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2013,98
+WA,1041,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2014,78
+WA,1042,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2011,0
+WA,1042,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2012,4
+WA,1042,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2013,11
+WA,1042,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2014,4
+WA,1043,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2015,0
+WA,1043,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2016,2
+WA,1043,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2017,0
+WA,1043,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2018,6
+WA,1043,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2019,0
+WA,1043,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2020,0
+WA,1044,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2008,78
+WA,1044,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2009,42
+WA,1044,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2010,81
+WA,1044,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2011,25
+WA,1044,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2012,90
+WA,1044,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2013,45
+WA,1044,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2014,59
+WA,1044,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2015,25
+WA,1044,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2016,22
+WA,1044,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2017,21
+WA,1044,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2018,NA
+WA,1044,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2019,16
+WA,1044,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2020,NA
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,1997,233
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,1998,605
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,1999,234
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2000,421
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2001,264
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2002,339
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2003,439
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2004,238
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2005,175
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2006,134
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2007,250
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2008,513
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2009,496
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2010,499
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2011,351
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2012,488
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2013,310
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2014,260
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2015,266
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2016,103
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2017,259
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2018,215
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2019,151
+WA,1045,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,2020,201
+WA,1047,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2013,6
+WA,1047,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2014,3
+WA,1047,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2015,0
+WA,1047,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2016,0
+WA,1047,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2017,0
+WA,1047,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2018,0
+WA,1047,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2019,4
+WA,1047,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2020,4
+WA,1048,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2000,4
+WA,1048,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2001,2
+WA,1048,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2002,1
+WA,1048,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2003,0
+WA,1048,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2004,2
+WA,1048,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2005,3
+WA,1048,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2006,1
+WA,1048,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2007,2
+WA,1048,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2008,1
+WA,1048,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2009,0
+WA,1048,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2010,2
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,1997,2
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,1998,1
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,1999,4
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2000,5
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2001,3
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2002,1
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2003,NA
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2004,0
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2005,5
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2006,3
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2007,5
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2008,3
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2009,8
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2010,4
+WA,1049,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,2011,14
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,1993,148
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,1994,448
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,1995,343
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,1996,244
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,1997,141
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,1998,358
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,1999,199
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2000,246
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2001,142
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2002,189
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2003,149
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2004,186
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2005,31
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2006,90
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2007,228
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2008,146
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2009,72
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2010,105
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2011,137
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2012,204
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2013,156
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2014,150
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2015,173
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2016,150
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2017,66
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2018,109
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2019,55
+WA,1079,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,2020,49
+WA,1080,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2008,1
+WA,1080,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2009,5
+WA,1080,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2010,6
+WA,1080,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2011,6
+WA,1080,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2012,3
+WA,1080,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2013,4
+WA,1080,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2014,2
+WA,1080,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2015,7
+WA,1080,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2016,5
+WA,1080,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2017,4
+WA,1080,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2018,4
+WA,1080,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2019,2
+WA,1080,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2020,1

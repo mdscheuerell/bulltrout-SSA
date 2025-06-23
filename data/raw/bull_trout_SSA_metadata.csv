@@ -1,0 +1,371 @@
+state,dataset,lifestage,DataType,Escapement Methodology Description,Biologist Methodology Description
+ID,1,A,Weir Counts,"long-term dataset, the best in the state, fish tight weir consistent operation over time",NA
+ID,2,J,Screw Trap,"Bull Trout are bycatch of a anadromous screw trapping effort, trap operation techniques and season of operation pretty consistent across time",NA
+ID,3,J,Snorkel counts,"Snorkel surveys are spread scross mutiple location populations in Core Area, but if split would only be a site or two a LP. This set of snorkel surveys have been done consistently across dataset.",NA
+ID,4,J,Screw Trap,"Screw trap operated as part of a long-term wild steelhead monitoring project. Fish Cr is a great consistent dataset, but not a BT Local population. BT strongholds in the Core Area are in upper portions of the drainage. This should still serve as an index, but not a strong loal popualtion in the Core Area. Two traps (below) Crooked FOrk and Colt Killed were operated in the Core Area until 2013. These were located in BT LP's and strongholds within the Lochsa.",NA
+ID,5,J,Screw Trap,Screw trap operated as part of a long-term anadromous monitoring project. Crooked River is a representative dataset for the Core Area. Contains migratory BT connection with SFK CLW.,NA
+ID,6,J,Snorkel counts,"Snorkel surveys are spread scross mutiple location populations in Core Area, but if split would only be a site or two a LP. This set of snorkel surveys have been done consistently across dataset.",NA
+ID,7,A,Weir Counts,Solid Nez Perce Tribe dataset. Weir has been run consistently and efficiently across dataseries. Fish sampled include migratory adults. Smaller individuals would escape through weir. Length data is also available from NPT.,NA
+ID,8,J,Screw Trap,"Good screw trap dataseries in a major tributary to the MFK SALR. Series is a little short, but operations should be  consistent across years. Big Cr. Is a major tributary to the MFK Core Area.",NA
+ID,9,J,Snorkel counts,Comprised of 10 snorkel sites across multiple MFK local populations. Data not collected annually across dataseries but still represents a long-term MFK data collection.,NA
+ID,10,J,Snorkel counts,Comprised of 4 snorkel sites across Selway R Core Area. Data not collected annually across dataseries but still represents a long-term dataset.,NA
+ID,11,B,Electrofishing,"USFS dataset from long-term e-fishing within Core Area, mix of tributaries. North Fork SAL which has some sites, is the focus of habitat restoration efforts that ramped up a few years ago.",NA
+ID,12,J,Screw Trap,"Lemhi River contains a robust dataset associated with IMW project ocuring within the drainge. Has been the focus of extensive habitat retoration efforts including increase baseflow, channel recconects.",NA
+ID,13,J,Screw Trap,"Lemhi River contains a robust dataset associated with IMW project ocuring within the drainge. Has been the focus of extensive habitat retoration efforts including increase baseflow, channel recconects.",NA
+ID,14,J,Screw Trap,"Lemhi River contains a robust dataset associated with IMW project ocuring within the drainge. Has been the focus of extensive habitat retoration efforts including increase baseflow, channel recconects.",NA
+ID,15,B,Electrofishing,USFS dataset from long-term e-fishing within Core Area. 2 trend reaches.,NA
+ID,16,A,Weir Counts,EFK SALR weir is a fish tight efficient weir. Trapping has switched hands to the SBT in more recent years.,NA
+ID,17,A,Fishery,Long-term dataset of fishery CPUE on BLT from Redfish Lake.,NA
+ID,18,A,Weir Counts,"Redfish Lake weir operated as part of the sockeye program. But, operations should have been consistent across time. Weir configuration was changed in 2018 but season of operation and efficiency should have remained high, though I don't think efficiency estimates were generated for BT.",NA
+ID,19,J,Screw Trap,"Screw trap is operated just upstream of the Sawtooth Hatchery weir on the mainstem Salmon River. Good dataset, samples multiple local pops above that location.",NA
+ID,20,J,Snorkel counts,USFS snorkel dataset. Pretty big gap in recent years. May be worth including 2021 in a model run update if we can. 4 streams (avg snorkel # / 100m),NA
+ID,21,B,Electrofishing,Mainstem surveys on SFK Boise River above Anderson Ranch Reservoir. 2 M-R sites. (#/100m2). Done ~ every third year.,NA
+ID,22,B,Electrofishing,"Long-term collaborative efishing dataset with IDFG/USFS. Covers multiple local populations in the Core Area. Surveys on Timber, Wet, and Sawmill combined.",NA
+ID,23,A,Redd Surveys,Long-term index redd walk dataset in LPO Core Area. LPO is one of the strongest BT Core Areas in Idaho.,NA
+ID,24,A,Redd Surveys,Long-term index redd walk dataset in LPO Core Area. LPO is one of the strongest BT Core Areas in Idaho.,NA
+ID,25,A,Redd Surveys,Long-term index redd walk dataset in LPO Core Area. LPO is one of the strongest BT Core Areas in Idaho.,NA
+ID,26,A,Redd Surveys,Long-term index redd walk dataset in LPO Core Area. LPO is one of the strongest BT Core Areas in Idaho.,NA
+ID,27,A,Redd Surveys,Long-term index redd walk dataset in LPO Core Area. LPO is one of the strongest BT Core Areas in Idaho.,NA
+ID,28,A,Redd Surveys,Long-term index redd walk dataset in LPO Core Area. LPO is one of the strongest BT Core Areas in Idaho.,NA
+ID,29,A,Redd Surveys,Long-term index redd walk dataset in LPO Core Area. LPO is one of the strongest BT Core Areas in Idaho.,NA
+ID,30,A,Redd Surveys,Long-term index redd walk dataset in LPO Core Area. LPO is one of the strongest BT Core Areas in Idaho.,NA
+ID,31,A,Redd Surveys,"These walks occur in the Idaho portion of the Core Area. BT distribution in the Core Area is predominately in MT. Did not include MT streams but those should be contained within the MT sheet, I think.",NA
+ID,32,A,Redd Surveys,"Comprised of 8 index stream reaches within the local population. Other redd walks have been done in other local populations within the Core Area, but infrequently. Also, the Little NFK drainage is HUGE, and not included in this dataseries. It is largely in a wilderness type setting. IDFG is doing surveys in 2021 in the Little NFK to compare to NFK work.",NA
+ID,33,A,Redd Surveys,"Part of larger redd count walks in Core Area. Other redd walks have been done in other local populations within the Core Area, but infrequently.",NA
+ID,34,A,Redd Surveys,"Part of larger redd count walks in Core Area. Other redd walks have been done in other local populations within the Core Area, but infrequently.",NA
+ID,35,A,Redd Surveys,"Part of larger redd count walks in Core Area. Other redd walks have been done in other local populations within the Core Area, but infrequently.",NA
+ID,36,A,Redd Surveys,"Redd walks occur in association with Upper Preist Lake, no redd walks, and presumed no BT distribution in streams entering into Lower Preist Lake, though it is part of the Core Area.",NA
+ID,37,A,Redd Surveys,"Redd walks occur in association with Upper Preist Lake, no redd walks, and presumed no BT distribution in streams entering into Lower Preist Lake, though it is part of the Core Area.",NA
+ID,38,A,Redd Surveys,"Redd walks occur in association with Upper Preist Lake, no redd walks, and presumed no BT distribution in streams entering into Lower Preist Lake, though it is part of the Core Area.",NA
+ID,39,A,Redd Surveys,"Long-term redd walk dataset in Upper Salmon, additional transects added in 2008 but only historic walk count is summarized to maintain consistent survey distance across the dataseries.",NA
+ID,40,A,Redd Surveys,"Long-term redd walk dataset in Upper Salmon, additional transects added in 2008 but only historic walk count is summarized to maintain consistent survey distance across the dataseries.",NA
+ID,41,A,Redd Surveys,"Long-term redd walk dataset in Upper Salmon, additional transects added in 2008 but only historic walk count is summarized to maintain consistent survey distance across the dataseries.",NA
+ID,42,J,Screw Trap,"Screw trap pulled due to change in anadromous program. Long term dataset through 2014, American River is in close spatial proximity to Crooked River in the SFK",NA
+ID,43,J,Screw Trap,"Screw trap pulled due to change in anadromous program. Long term dataset through 2014, Red River is in close spatial proximity to Crooked River in the SFK",NA
+ID,44,J,Screw Trap,"Screw trap pulled due to change in anadromous program. Long term dataset through 2014, represents a much stronger BT local population in the Lochsa Core Area compared to Fish Cr. But, dataseries cut short by trap re-location.",NA
+ID,45,J,Screw Trap,"Screw trap pulled due to change in anadromous program. Long term dataset through 2014, represents a much stronger BT local population in the Lochsa Core Area compared to Fish Cr. But, dataseries cut short by trap re-location.",NA
+ID,46,J,Screw Trap,NPT screw trap pulled due to change in anadromous program. Long term dataset through 2013,NA
+ID,47,J,Screw Trap,NPT screw trap pulled due to change in anadromous program. Long term dataset through 2013,NA
+ID,48,J,Screw Trap,"Dataseries does not include 2015, partial trapping season and not comparable to previous",NA
+ID,49,J,Screw Trap,"Marsh Creek Trap location from 92-15 but moved lower in 2016, overlapping years in 2010-2015",NA
+ID,50,J,Screw Trap,"Marsh Creek Trap location from 2010-2019, replaced upper trap location",NA
+ID,51,J,Screw Trap,Screw trap pulled due to change in anadromous program. Long term dataset through 2014,NA
+ID,52,J,Screw Trap,Screw trap pulled due to change in anadromous program. Long term dataset through 2014,NA
+ID,53,J,Screw Trap,"BT present at low abundance at trap, at the bottom of the system. But operated consistently across time.",NA
+ID,54,A,Redd Surveys,"Long-term index redd walk dataset in LPO Core Area. LPO is one of the strongest BT Core Areas in Idaho. Gold Creek (South) is it's own local population and flows directly into LPO, hence the separate reporting from NFK Gold Cr.",NA
+ID,55,A,Redd Surveys,Hayden Cr (Bear Valley Cr) redd walks. Consist of two transects consistently sampled 06-present. The old transect was also sampled in 02-05 but was not included since it was not paired with the new transect until 2006. Total transect length ~6.4km.,NA
+ID,56,A,Redd Surveys,New Hayden Cr transect contains the most suitable habitat in mainstem Hayden Cr. Has been surveyed since 2010. A second older transect has been surveyed intermittnetly (05-09 and 18-20) but because of inconsistency of survey completion the older transect data is not included. ,NA
+ID,57,A,Redd Surveys,"Big Timber Creek, tributary to the Lemhi River. Two transects are part of this dataset. However, transects were not completed or only one transect was completed in (09, 13, 16, 17, and 18). Therefore those years were excluded from the dataseries for consistency of transect length and survey method. ",NA
+MT,1,A,Redd Survey,NA,NA
+MT,2,A,Redd Survey,NA,NA
+MT,6,A,Redd Survey,NA,NA
+MT,7,A,Redd Survey,NA,NA
+MT,12,A,Redd Survey,NA,NA
+MT,17,A,Redd Survey,NA,NA
+MT,19,A,Redd Survey,NA,NA
+MT,20,A,Redd Survey,NA,NA
+MT,21,A,Redd Survey,NA,NA
+MT,22,A,Redd Survey,NA,NA
+MT,23,A,Redd Survey,NA,NA
+MT,24,A,Redd Survey,NA,NA
+MT,25,A,Redd Survey,NA,NA
+MT,26,A,Redd Survey,NA,NA
+MT,27,A,Redd Survey,NA,NA
+MT,28,A,Redd Survey,NA,NA
+MT,29,A,Redd Survey,NA,NA
+MT,30,A,Redd Survey,NA,NA
+MT,31,A,Redd Survey,NA,NA
+MT,32,A,Redd Survey,NA,NA
+MT,33,A,Redd Survey,NA,NA
+MT,34,A,Redd Survey,NA,NA
+MT,35,A,Redd Survey,NA,NA
+MT,36,A,Redd Survey,NA,NA
+MT,37,A,Redd Survey,NA,NA
+MT,38,A,Redd Survey,NA,NA
+MT,39,A,Redd Survey,NA,NA
+MT,40,A,Redd Survey,NA,NA
+MT,42,A,Redd Survey,NA,NA
+MT,44,A,Redd Survey,NA,NA
+MT,45,A,Redd Survey,NA,NA
+MT,46,A,Redd Survey,NA,NA
+MT,47,A,Redd Survey,NA,NA
+MT,48,A,Redd Survey,NA,NA
+MT,49,A,Redd Survey,NA,NA
+MT,50,A,Redd Survey,NA,NA
+MT,51,A,Redd Survey,NA,NA
+MT,52,A,Redd Survey,NA,NA
+MT,53,A,Redd Survey,NA,NA
+MT,54,A,Redd Survey,NA,NA
+MT,55,A,Redd Survey,NA,NA
+MT,56,A,Redd Survey,NA,NA
+MT,57,A,Redd Survey,NA,NA
+MT,58,A,Redd Survey,NA,NA
+MT,59,A,Redd Survey,NA,NA
+MT,60,A,Redd Survey,NA,NA
+MT,61,A,Redd Survey,NA,NA
+MT,62,A,Redd Survey,NA,NA
+MT,63,A,Redd Survey,NA,NA
+MT,64,A,Redd Survey,NA,NA
+MT,65,A,Redd Survey,NA,NA
+MT,66,A,Redd Survey,NA,NA
+MT,67,A,Redd Survey,NA,NA
+MT,68,A,Redd Survey,NA,NA
+MT,69,A,Redd Survey,NA,NA
+MT,70,A,Redd Survey,NA,NA
+MT,71,A,Redd Survey,NA,NA
+MT,72,A,Redd Survey,NA,NA
+MT,74,A,Redd Survey,NA,NA
+MT,75,A,Redd Survey,NA,NA
+MT,76,A,Redd Survey,NA,NA
+MT,77,A,Redd Survey,NA,NA
+MT,78,A,Redd Survey,NA,NA
+MT,79,A,Redd Survey,NA,NA
+MT,80,A,Redd Survey,NA,NA
+MT,81,A,Redd Survey,NA,NA
+MT,82,A,Redd Survey,NA,NA
+MT,83,A,Redd Survey,NA,NA
+MT,84,A,Redd Survey,NA,NA
+MT,87,A,Redd Survey,NA,NA
+MT,88,A,Redd Survey,NA,NA
+MT,89,A,Redd Survey,NA,NA
+MT,91,A,Redd Survey,NA,NA
+MT,92,A,Redd Survey,NA,NA
+MT,93,A,Redd Survey,NA,NA
+MT,94,A,Redd Survey,NA,NA
+MT,95,A,Redd Survey,NA,NA
+MT,96,A,Redd Survey,NA,NA
+MT,97,A,Redd Survey,NA,NA
+MT,98,A,Redd Survey,NA,NA
+MT,99,A,Redd Survey,NA,NA
+MT,100,A,Redd Survey,NA,NA
+MT,101,A,Redd Survey,NA,NA
+MT,102,A,Redd Survey,NA,NA
+MT,103,A,Redd Survey,NA,NA
+MT,104,A,Redd Survey,NA,NA
+MT,106,A,Redd Survey,NA,NA
+MT,107,A,Redd Survey,NA,NA
+MT,108,A,Redd Survey,NA,NA
+MT,109,A,Redd Survey,NA,NA
+MT,110,A,Redd Survey,NA,NA
+MT,114,A,Redd Survey,NA,NA
+MT,115,A,Redd Survey,NA,NA
+MT,116,A,Redd Survey,NA,NA
+MT,117,A,Redd Survey,NA,NA
+MT,118,A,Redd Survey,NA,NA
+MT,119,A,Redd Survey,NA,NA
+MT,120,A,Redd Survey,NA,NA
+MT,122,A,Redd Survey,NA,NA
+MT,123,A,Redd Survey,NA,NA
+MT,124,A,Redd Survey,NA,NA
+MT,125,A,Redd Survey,NA,NA
+MT,126,A,Redd Survey,NA,NA
+MT,128,A,Redd Survey,NA,NA
+MT,129,A,Redd Survey,NA,NA
+MT,130,A,Redd Survey,NA,NA
+MT,132,A,Redd Survey,NA,NA
+MT,133,A,Redd Survey,NA,NA
+MT,134,A,Redd Survey,NA,NA
+MT,136,A,Redd Survey,NA,NA
+MT,138,A,Redd Survey,NA,NA
+MT,139,A,Redd Survey,NA,NA
+MT,142,A,Redd Survey,NA,NA
+MT,143,A,Redd Survey,NA,NA
+MT,144,A,Redd Survey,NA,NA
+MT,145,A,Redd Survey,NA,NA
+MT,146,A,Redd Survey,NA,NA
+MT,147,A,Redd Survey,NA,NA
+MT,148,A,Redd Survey,NA,NA
+MT,149,A,Redd Survey,NA,NA
+MT,150,A,Redd Survey,NA,NA
+MT,151,A,Redd Survey,NA,NA
+MT,152,A,Redd Survey,NA,NA
+MT,153,A,Redd Survey,NA,NA
+MT,154,A,Redd Survey,NA,NA
+MT,155,A,Redd Survey,NA,NA
+MT,156,A,Redd Survey,NA,NA
+MT,157,A,Redd Survey,NA,NA
+MT,158,A,Redd Survey,NA,NA
+MT,159,A,Redd Survey,NA,NA
+MT,160,A,Redd Survey,NA,NA
+MT,161,A,Redd Survey,NA,NA
+MT,162,A,Redd Survey,NA,NA
+MT,163,A,Redd Survey,NA,NA
+MT,164,A,Redd Survey,NA,NA
+MT,165,A,Redd Survey,NA,NA
+MT,166,A,Redd Survey,NA,NA
+MT,167,A,Redd Survey,NA,NA
+MT,168,A,Redd Survey,NA,NA
+MT,169,A,Redd Survey,NA,NA
+MT,170,A,Redd Survey,NA,NA
+MT,171,A,Redd Survey,NA,NA
+MT,172,A,Redd Survey,NA,NA
+MT,173,A,Redd Survey,NA,NA
+MT,174,A,Redd Survey,NA,NA
+MT,175,A,Redd Survey,NA,NA
+MT,176,A,Redd Survey,NA,NA
+MT,178,A,Redd Survey,NA,NA
+MT,181,A,Redd Survey,NA,NA
+MT,182,A,Redd Survey,NA,NA
+MT,183,A,Redd Survey,NA,NA
+MT,184,A,Redd Survey,NA,NA
+MT,186,A,Redd Survey,NA,NA
+MT,191,A,Redd Survey,NA,NA
+MT,192,A,Redd Survey,NA,NA
+MT,193,A,Redd Survey,NA,NA
+OR,1,A,Redd Surveys,Annual Redd Surveys of known and potential spawning reaches in Sweetwater Creek and Mckenzie River above Trail Bridge Reservoir.  Surveyed by 1 or 2 experienced surveyors every other week genreally from early August to late October.  Conducted zero counts and flagged redds to prevent double counting.,NA
+OR,2,A,Redd Surveys,Annual Redd Surveys of known and potential spawning reaches in Anderson and Ollalie Creeks and Mckenzie River below Trail Bridge Dam.  Surveyed by 1 or 2 experienced surveyors every other week genreally from early August to late October.  Conducted zero counts and flagged redds to prevent double counting.,NA
+OR,3,A,Redd Surveys,Annual Redd Surveys of known and potential spawning reaches in 31Km reach of South Fork McKenzie from the head of Cougar Reservoir to Elk Creek.  Surveyed by 1 or 2 experienced Chinook salmon spawning surveyors every other week genreally from early August to late October.  Conducted zero counts and flagged redds to prevent double counting.,NA
+OR,4,A,Redd Surveys,"Annual Redd Surveys of known and potential spawning reaches in MFWR from Sacandage Campground to the Gorge upstream of tumblebug Creek (every other week),  all reaches of Iko, Indigo, and Chuckle springs accessible to bull trout (every week) and Swift Creek from the mouth to Bear Creek plus 2km of Bear Creek twice per year and Lower Echo and Found crees once per year.  Surveyed by 1 or 2 experienced  surveyors every other week genreally from early August to late October.  Conducted zero counts and flagged redds to prevent double counting.",NA
+OR,5,A,Redd Surveys,Annual Census Redd Surveys using a standardized protocol in Upper Clear Branch (0-6.1km) and Pinnacle Creek (0-3.0 km) .  Surveys occurred every other week from mid August to early November.  Zero count in early August.  Every survey included at least 1 of 3 experienced surveyors.,NA
+OR,6,A,Redd Surveys,Annual Index Redd Surveys of Jefferson and Candle Creeks.  2 surveys per year (mid September and mid October) by expereinced surveyors.,NA
+OR,7,A,Redd Surveys,"Annual Index Redd Surveys of Canyon and Jack Creeks, Heising Springs, and Metolius River between Jack and Canyon Creeks (does not include Spring Creek that was only surveyed in some years).  2 surveys per year (mid September and mid October) by expereinced surveyors.",NA
+OR,8,A,Redd Surveys,Annual Index Redd Surveys of Trapper Creek.  Multiple Surveys per year by expereinced and consistent surveyors.,NA
+OR,9,J,Juvenile Snorkel Surveys,"Night snorkle surveys by experienced surveyors. At least one experienced surveyor.  1-2 consecutive nights in July, August or September.",NA
+OR,10,A,Redd Surveys,Annual Census Redd Counts in NF Umatilla River (in Wilderness Area).  Suveyed by expereinced surveyors.,NA
+OR,11,A,Redd Surveys,Annual Index Redd Counts in SF Walla Walla River (from Skiphorton to Second trib on the east past Reser Creek).  Multiple surveys per year. Did not include data point if only one survey early in the spawning season.  Various surveyors.,NA
+OR,12,A,Dam Counts,Nursery Bridge Dam Counts; annual upstream counts of migratory adults. https://gis.ctuir.org/fish-counts-downloader/,NA
+OR,13,A,Redd Surveys,Total redd count in reaches B & C (WDFW; same as reaches 5&6 Howell et al.) (Deadman Creek to Bull Creek).  These two reaches have been shown to represent 67% of the total redd count in Mill Creek and track year to year trends.,NA
+OR,14,A,Redd Surveys,Annual index redd survey in 1.3 miles of North Fork Catherine Creek.  2 surveys per year (Sept and Oct).,NA
+OR,15,A,Weir Counts,Annual bull trout catch at the Catherine Creek Adult Collection Facility. Abundance of upstream moving migratory adults,NA
+OR,16,A,Redd Surveys,"Index Redd Surveys. 0.8 miles upstream of road 8270.  2 surveys each year, one in Sept and one in October, unless otherwise noted. This survey was termed as 'exploratory' in Sausen 2016.",NA
+OR,17,A,Redd Surveys,Annual Index Redd Surveys.  Index reach 8.1 miles.  Surveyed 3x in 1999 & 2000; twice in 2001-19 (see Rumelhart & Vatland 2019 for exceptions).  Surveys generally mid-September thru mid-October. Experienced surveyors on every survey.  Redds flagged in each survey to prevent double counting.,NA
+OR,18,A,Redd Surveys,Index surveys in Bear (1 mile) and Goat (0.9 miles) Creeks  Surveyed once/year in mid-October 1999-2009; twice in 2007-19 (mid-Sept and mid-Oct). (see Rumelhart & Vatland 2019).  Experienced surveyors on every survey.  Redds flagged in each survey to prevent double counting.,NA
+OR,19,A,Redd Surveys,Census redd surveys in Little Minam and Dobbin Creek.  Surveyed by consistent and expereinced surveyors.  3-4 surveys/year except twice in 2003 and 2004. Data exists in 2020 but only one survey in some reaches.,NA
+OR,20,A,Weir Counts,Lookingglass Creek weir counts; annual upstream counts of migratory adults. https://gis.ctuir.org/fish-counts-downloader/,NA
+OR,21,A,Redd Surveys,Annual Index Redd Surveys.  14.7 miles (includes all North and South Fork Reaches and Imnaha River from forks to falls).  Surveyed once each year by experienced surveyors. (Sausen 2018),NA
+OR,22,A,Redd Surveys,Annual Index Redd Surveys.  2.8 miles (below the falls to Indian Crossing).  Blue Hole to Indian crossing surveyed twice each year in mid september and mid October by experienced surveyors (except once in 2005 and 2013). (Sausen 2018),NA
+OR,23,A,Redd Surveys,Annual Index Redd Surveys.  2.5 miles surveyed once each year by experienced surveyors. (Sausen 2018),NA
+OR,24,A,Redd Surveys,"Annual Index Redd Surveys.  Big Sheep (1.5 miles) and Lick Creek (2.2 miles) surveys combine.  Surveyed twice/year (except 2000-2001, 2004, and 2017 which was once) mid-September and mid-October with experienced surveyors (see Rumelhart & Vatland 2019).",NA
+OR,25,A,Redd Surveys,Annual Index Redd Surveys.  1.7 miles in Main Pine Creek except 2004 surveyed 2.2 miles.  Two surveys per year.,NA
+OR,26,A,Redd Surveys,Annual Index Redd Surveys.  1.3 miles in Clear Creek.  Two surveys per year.,NA
+OR,27,A,Redd Surveys,Annual Index Redd Surveys in Elk Creek.  Two surveys per year.  Severe floods in 2010  scoured out spawning gravel and riparian vegetation in lower end of surveys.  Surveys 2015-17 shortend by 0.05 miles.,NA
+OR,28,A,Redd Surveys,Annual Index Redd Surveys in Aspen Creek.  Two surveys per year.  Severe floods in 2010  scoured out spawning gravel and riparian vegetation in lower end of surveys.,NA
+WA,1,A,Escapement Fish,Expanded estimate (based on mark-resight) of the abundance of adult fish seasonally staging in a given location before a portion of the population ascends tributaries to spawn.,"Data are counts of adult bull trout >360mm staging at the head of Swift Reservoir. Estimates are determined by expanded abundance estimate using White�s Colorado State Univ. NoRemark hyper-geometric model. In the past, radio tag data indicated most fish spawned in Pine and Rush Creeks, but visual surveys have indicated not all fish enter these creeks to spawn."
+WA,2,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from the South Fork Sauk.
+WA,3,A,Escapement Fish,"Expanded estimate or seasonal census of adult fish counted in a trap, regardless of origin.",Data are counts of char at the U.S. Army Corps of Engineers� Buckley trap.
+WA,4,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).","Data are total redd counts from RM 18.5 to 23.75 in SF Skokomish River and from RM 0 to 1.0 in Church Creek, a tributary to the SF Skokomish.  Data provided by the U.S. Forest Service."
+WA,5,A,Escapement Fish,"Expanded estimate or seasonal census of adult fish counted in a trap, regardless of origin.",Data are adult counts at the Sunset Falls trap on the South Fork Skykomish.
+WA,6,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts in the upper North Fork Skykomish River and several local tributaries.
+WA,7,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from North Fork Asotin Creek and its tributaries.
+WA,8,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts for Butte Creek and West Fork Butte Creek (index area counts and total counts).
+WA,9,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts for the North Fork Wenaha River (index area counts and total counts).
+WA,10,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 4.0-8.0 (from Klipchuck CG to waterfall barrier).
+WA,11,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 6.8-9.5 (from Vanderpool crossing to Cougar Creek).
+WA,12,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data type description needed.
+WA,13,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from the North Fork Touchet (index area counts and total counts).
+WA,14,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from the Wolf Fork Touchet (index area counts and total counts).
+WA,16,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are index area redd counts and total redd counts.
+WA,17,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 0.9-6.4.
+WA,18,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 0.0-1.0.
+WA,19,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 0.0-5.4.
+WA,20,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).","Data are redd counts from the North Fork of Ahtanum Creek, including Shellneck Creek."
+WA,21,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from the Middle Fork of Ahtanum Creek.
+WA,22,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from the South Fork of Ahtanum Creek.
+WA,23,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from the American River.  Data for the American River Bull Trout includes Union & Kettle Creeks.
+WA,24,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from Box Canyon Creek.
+WA,25,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data for this stock are redd counts for the area above Cle Elum Lake.
+WA,26,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from Crow Creek.
+WA,27,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from Deep Creek.
+WA,28,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from Gold Creek.
+WA,29,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from Indian Creek.
+WA,30,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from the Kachess River above the reservoir.
+WA,31,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from the NF Teanaway and DeRoux Creek.
+WA,32,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from the North Fork Tieton above Clear Lake.
+WA,33,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from Rattlesnake Creek.  Data for Rattlesnake Creek Bull Trout includes Little Wildcat & Shell Creeks.
+WA,34,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from the South Fork Tieton.  Data for the S.F. Tieton River includes Bear Creek.
+WA,35,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are total redd counts from Keechelus to Easton Reach. Only incomplete surveys have ever been conducted as the index areas are not fully defined or adequately monitored.
+WA,36,A,Escapement Fish,"Expanded estimate, census, or count of fish escaping past a given location along their migratory path that represents only a portion of escaping abundance for the entire stock and has been separated for management purposes.",Data are peak counts of adults in the upper North Fork Skykomish River and several local tributaries.
+WA,37,A,Spawner Fish,"Expanded estimate or census of the total number of fish of a stock spawning in the wild, regardless of origin.",Peak live spawner fish count in index reach from RM 23 to RM 19 from snorkeling surveys in September/October.
+WA,38,A,Spawner Redds,Raw annual bull trout redd count data from WDFW,skagit and nps bull trout trends thru 2019.doc
+WA,39,J,Screw Trap,Raw catch numbers with no expansion for the period not fished (1-20%).,The trap has fished several locatoins over the years between the mouth and about 1/2 mile upstream of the E. Anderson rd Bridge
+WA,40,J,Juvenile Fish Collector,"Catch numbers, with size information in the comments, from the Lake Cushman juvenile fish collector",Incidental catch of bull trout during juvenile fish collection activities related to the Lake Cushman trap and haul operation.
+WA,41,B,Index Snorkel,Standardized snorkel survey of an index reach. Max count from multiple surveys during the spawning season,Max counts capped upstream by Staircase Rapids. Results can be influenced by effort withinan among years. They have had experienced divers during these surveys
+WA,42,A,Cumulative Redd Count,Raw annual bull trout redd count data from WDFW,Data are redd counts
+WA,43,A,Cumulative Redd Count,Bull trout redd count data from CRW-HCP monitoring,Data are redd counts
+WA,44,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,888,A,Spawner Fish,"Expanded estimate or census of the total number of fish of a stock spawning in the wild, regardless of origin.",Peak live spawner fish count in index reach from RM 23 to RM 19 from snorkeling surveys in September/October.
+WA,990,A,Trap Count,Weir,Touchet Adult trap
+WA,991,A,Trap Count,Weir,Tucannon Adult trap
+WA,992,J,Trap Count,Smolt trap,Asotin Creek smolt trap
+WA,993,A,Trap Count,Weir,Asotin Creek weir
+WA,997,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from Blue Buck Creek.
+WA,998,NA,Unknown,Insufficient information to apply a descriptive title.,"Data type description needed.  Basin is being explored by USFWS (Mike Hudson) using a new Patch Analysis process for 3 years (2007-2009) prior to Condit Dam removal.  To date, no bull trout have been detected."
+WA,999,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from the Cedar and Rex rivers.  This stock is no longer monitored.
+WA,1000,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 3.4-6.4.
+WA,1001,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 1.4-6.7. Sub population Chikamin Creek Bull Trout
+WA,1002,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 30.3-33.5. Sub population Chiwawa River Bull Trout
+WA,1003,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 0.0-1.0. Sub population Phelps Creek Bull Trout
+WA,1004,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 0.0-5.4. Sub population Rock Creek Bull Trout
+WA,1005,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 0.0-3.3 in most years.
+WA,1006,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 16.2-33.0.
+WA,1007,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from Crater Creek and Foggy Dew Creek.
+WA,1008,A,Spawner Fish,"Expanded estimate, census, or count of spawners that represents only a portion of spawner abundance for the entire stock and has been separated for management purposes.",Data are counts of spawners in the large pool at RM 2.8 and other index areas as possible.
+WA,1009,A,Escapement Fish,"Expanded estimate or seasonal census of adult fish counted in a trap, regardless of origin.",Data are total upstream-migrating bull trout caught at Lyle Falls trap.
+WA,1010,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 4.3-5.3 and 7.7-9.2 (below and above Black Lake).
+WA,1011,A,Spawner Fish,"Expanded estimate, census, or count of spawners that represents only a portion of spawner abundance for the entire stock and has been separated for management purposes.","Data are peak counts of adult char during snorkel surveys conducted by the National Park Service from Four Stream confluence (RM 31.35) or Red Reef Pool (RM 29.7) to Lake Cushman Bridge (RM 28.1, inlet) in the NF Skokomish River upstream of Lake Cushman."
+WA,1012,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 6.2-7.8.
+WA,1013,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 11.2-18.7 (from Young Creek to Jimmy Creek).
+WA,1014,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",NA
+WA,1015,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 15.3-22.4.
+WA,1016,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 0.0-0.7.
+WA,1017,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from South Fork Stillaguamish index reaches.
+WA,1018,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 20.9-25.3 and 24.4-28.1.  In 2007 a new section from Reynolds Creek to the barrier falls (5 miles) was surveyed.
+WA,1019,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data for this stock are redd counts for the area above Cle Elum Lake in the Waptus River.
+WA,1020,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 0.0-2.5 in most years.
+WA,1021,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts in index areas of the West Fork Methow River.
+WA,1022,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 11.0-14.3.
+WA,1023,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Data are redd counts from RM 7.2-10.6 in most years.
+WA,1024,J,Trap Count (rotary screw trap),NA,Data from report: Nelson and Nelle 2020 MIGRATIONS OF SUBADULT BULL TROUT IN THE ENTIAT AND COLUMBIA RIVERS: OBSERVATIONS FROM PIT TAGGING AT ROTARY SCREW TRAPS2007 –2016
+WA,1025,A,Spawner Redds,NA,"Chiwawa River - WDFW census surveys 2013 - 2017, expanded index reaches 2018 onward"
+WA,1026,A,Spawner Redds,NA,Phelps Creek - WDFW started surveying in 2014 and changed spatial and temporal extent
+WA,1027,A,Spawner Redds,NA,Rock Creek - WDFW started surveying in 2014 changed timing of surveys
+WA,1028,A,Spawner Redds,NA,White River - WDFW started surveying 2013 changed timing and spatial extent of surveys
+WA,1029,J,Trap Count,Number of juvenile bull trout captured  by year Eagle Creek,Hudson et al 2019 Lewis River Bull Trout Synthesis
+WA,1030,J,Trap Count,Number of juvenile bull trout captured  by year Rush Creek,Hudson et al 2019 Lewis River Bull Trout Synthesis
+WA,1031,A,Spawner Redds,Redd counts - raw counts,NA
+WA,1032,A,Spawner Redds,Redd counts - raw counts,NA
+WA,1033,A,Spawner Redds,Redd counts - raw counts,NA
+WA,1034,J,Electrofishing,Electrofishing fo juvenile bull trout,Similar annual effort - 2 survey days with 3 hours of shocker time/day
+WA,1035,J,Electrofishing,Electrofishing fo juvenile bull trout,Similar annual effort - 2 survey days with 3 hours of shocker time/day
+WA,1036,J,Electrofishing,Electrofishing fo juvenile bull trout,Similar annual effort - 2 survey days with 3 hours of shocker time/day
+WA,1037,J,Electrofishing,Electrofishing fo juvenile bull trout,Similar annual effort - 2 survey days with 3 hours of shocker time/day
+WA,1038,A,CPUE,Catch and release data from incidental bull trout catch during the Sockeye fishery,NA
+WA,1039,B,Snorkel counts,Relative abundance counts of bull trout from snorkeling,Size class data available (range 90-350 mm)
+WA,1040,J,Trap Count,Tucannon Smolt Trap Counts,"Data were in migration years - used the latter year for data series (i.e., 98/99 entered as 1999)"
+WA,1041,J,Trap Count,Touchet - Dayton Smolt Trap,"Data were in migration years - used the latter year for data series (i.e., 98/99 entered as 1999)"
+WA,1042,J,Trap Count,Touchet - Waitsburg Smolt Trap,"Data were in migration years - used the latter year for data series (i.e., 98/99 entered as 1999)"
+WA,1043,J,Trap Count,Touchet - Harvey-Shaw Smolt Trap,"Data were in migration years - used the latter year for data series (i.e., 98/99 entered as 1999)"
+WA,1044,J,Trap Count,Entiat - Smolt Trap Counts,Entiat Basin - only captures from the lower trap location from 2008 to current
+WA,1045,J,Trap Count,Chiwawa - Smolt Trap Counts,Juvenile fish data only. Juvenile = <300mm FL and Adult = >300mm FL; Effort was not consistent between years i.e. dates smolt trap operated and the cone position/catch probability varied from year to year.
+WA,1046,A,Trap Count,Smolt Trap Counts,Adult fish data only. Juvenile = <300mm FL and Adult = >300mm FL; Effort was not consistent between years i.e. dates smolt trap operated and the cone position/catch probability varied from year to year.
+WA,1047,J,Trap Count,Smolt Trap Counts - Lower Wenatchee River smolt trap location,Juvenile fish data only. Juvenile = <300mm FL and Adult = >300mm FL; Effort was not consistent between years i.e. dates smolt trap operated and the cone position/catch probability varied from year to year.
+WA,1048,J,Trap Count,Smolt Trap Counts - Monitor smolt trap location,Juvenile fish data only. Juvenile = <300mm FL and Adult = >300mm FL; Effort was not consistent between years i.e. dates smolt trap operated and the cone position/catch probability varied from year to year.
+WA,1049,J,Trap Count,Smolt Trap Counts - Lake smolt trap location,Juvenile fish data only. Juvenile = <300mm FL and Adult = >300mm FL; Effort was not consistent between years i.e. dates smolt trap operated and the cone position/catch probability varied from year to year.
+WA,1050,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Tucannon River - Data are index area redd counts and total redd counts.
+WA,1051,A,Spawner Redds,"Cumulative total of redds counted throughout the spawning season in redd*days (i.e., before being divided by redd life).",Bear Creek in Tuncannon- Data are index area redd counts and total redd counts.
+WA,1052,A,Spawner Redds,Raw annual bull trout redd count data from WDFW,skagit and nps bull trout trends thru 2019.doc
+WA,1053,A,Spawner Redds,Raw annual bull trout redd count data from WDFW,skagit and nps bull trout trends thru 2019.doc
+WA,1054,A,Spawner Redds,Raw annual bull trout redd count data from WDFW,skagit and nps bull trout trends thru 2019.doc
+WA,1055,A,Spawner Redds,Raw annual bull trout redd count data from WDFW,skagit and nps bull trout trends thru 2019.doc
+WA,1056,A,Cumulative Redd Count,Bull trout redd count data from CRW-HCP monitoring,Data are redd counts
+WA,1058,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1059,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1060,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1061,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1062,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1063,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1064,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1065,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1066,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1067,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1068,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1069,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1070,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1071,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1072,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1073,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1074,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1075,A,Spawner redds,"Cumulative total of redds counted from a number of tributaries throughout the season, no adjustment for fish/redd. Effort varies by year",Data are redd counts
+WA,1076,A,Spawner Fish,"Expanded estimate, census, or count of spawners that represents only a portion of spawner abundance for the entire stock and has been separated for management purposes.","Data are peak counts of adult char during snorkel surveys conducted by WDFW from Red Reef Pool (RM 29.7) to Lake Cushman Bridge (RM 28.1, inlet) in the NF Skokomish River upstream of Lake Cushman.  In 1995 the National Parks Service took over surveys."
+WA,1079,J,Trap Count,Totals from scoop and screw traps,Data are total annual catch
+WA,1080,J,Electrofishing,Electrofishing fo juvenile  trout,NA

@@ -1,0 +1,241 @@
+state,core_area,popn_stream,source,n_yrs
+ID,Couer d'Alene,Medicine Creek,redd counts,29
+ID,Couer d'Alene,St Joe River,redd counts,29
+ID,Couer d'Alene,Wisdom Cr,redd counts,29
+ID,Kootenai,Callahan,redd counts,18
+ID,LPO,Lightning Creek,redd counts,30
+ID,LPO,Johnson Cr,redd counts,30
+ID,LPO,Strong Creek,redd counts,13
+ID,LPO,Trestle Creek,redd counts,30
+ID,LPO,Granite Creek,redd counts,30
+ID,LPO,North Fork Gold Creek,redd counts,30
+ID,LPO,MFK East River,redd counts,20
+ID,LPO,Pack River,redd counts,30
+ID,LPO,Gold Creek (South),redd counts,30
+ID,Priest Lakes,Upper Priest River,redd counts,28
+ID,Priest Lakes,Hughes Cr,redd counts,28
+ID,Priest Lakes,Gold Creek,redd counts,29
+ID,North Fork Clearwater,Upper North Fork,redd counts,16
+ID,Lemhi River,Hayden Creek (Bear Valley Cr),redd counts,15
+ID,Lemhi River,Hayden Creek,redd counts,11
+ID,Little-Lower Salmon River,Rapid River,weir,29
+ID,South Fork Salmon River,Johnson Cr,weir,20
+ID,Upper Salmon,EFK Salmon River,weir,17
+ID,Upper Salmon,Redfish Lake,fishery catch_rates,24
+ID,Upper Salmon,Redfish Lake,weir,13
+ID,Upper Salmon,Fishhook Creek,redd counts,23
+ID,Upper Salmon,Alpine Creek,redd counts,23
+ID,Upper Salmon,4th of July,redd counts,18
+ID,Upper Salmon,Multiple,weir,12
+MT,CANADA,North Fork Flathead River,redd counts,17
+MT,CANADA,Wigwam River (Canada),redd counts,26
+MT,Big Salmon Lake,Big Salmon (simple),redd counts,11
+MT,Bitterroot River,Meadow Creek,redd counts,27
+MT,Bitterroot River,Daly Creek,redd counts,22
+MT,Blackfoot River,Belmont Creek,redd counts,13
+MT,Blackfoot River,Gold Creek,redd counts,20
+MT,Blackfoot River,Landers Fork (Copper Creek Lower),redd counts,30
+MT,Blackfoot River,Landers Fork (Copper Creek Upper),redd counts,25
+MT,Blackfoot River,Snowbank Creek (not a LP orCH),redd counts,12
+MT,Blackfoot River,Duham Creek (trib to Monture),redd counts,18
+MT,Blackfoot River,Monture Creek,redd counts,30
+MT,Blackfoot River,North Fork Blackfoot River,redd counts,28
+MT,Bowman,Bowman Creek,redd counts,13
+MT,Bull Lake,Keeler Creek,redd counts,24
+MT,Bull Lake,North Fork Keeler Creek,redd counts,23
+MT,Bull Lake,South Fork Keeler Creek,redd counts,22
+MT,Cerulean/Quartz Mid Lakes,Quartz Creek,redd counts,17
+MT,Clearwater,East Fork Clearwater,redd counts,12
+MT,Clearwater,Marshall Creek (upper),redd counts,11
+MT,Clearwater,West Fork Clearwater,redd counts,14
+MT,Clearwater,Morrell Creek,redd counts,19
+MT,Cyclone Lake,Cyclone Creek,redd counts,25
+MT,Flathead Lake,Bear Creek,redd counts,11
+MT,Flathead Lake,Big Creek,redd counts,27
+MT,Flathead Lake,Hallowat Creek,redd counts,26
+MT,Flathead Lake,Coal Creek (index),redd counts,26
+MT,Flathead Lake,Mathias Creek,redd counts,12
+MT,Flathead Lake,North Coal,redd counts,13
+MT,Flathead Lake,South Coal,redd counts,17
+MT,Flathead Lake,Granite Creek,redd counts,29
+MT,Flathead Lake,LodgePole Creek (trib to Morrison),redd counts,29
+MT,Flathead Lake,Morrison Creek,redd counts,27
+MT,Flathead Lake,Nyack Creek,redd counts,14
+MT,Flathead Lake,Ole Creek,redd counts,29
+MT,Flathead Lake,Park Creek,redd counts,16
+MT,Flathead Lake,DollyVarden Creek,redd counts,11
+MT,Flathead Lake,Schafer Creek,redd counts,11
+MT,Flathead Lake,Trail Creek (index),redd counts,30
+MT,Flathead Lake,Whale Creek (index),redd counts,27
+MT,Flathead Lake,Whale Creek (Shorty Creek),redd counts,10
+MT,Harrison Lake,Harrison Lake (simple),redd counts,11
+MT,Holland Lake,Holland Creek (simple),redd counts,30
+MT,Hungry Horse Reservoir,Gordon Creek,redd counts,12
+MT,Hungry Horse Reservoir,Little Salmon Creek,redd counts,12
+MT,Hungry Horse Reservoir,Quintonkon Creek,redd counts,26
+MT,Hungry Horse Reservoir,Sullivan Creek,redd counts,25
+MT,Hungry Horse Reservoir,Wheeler Creek,redd counts,27
+MT,Hungry Horse Reservoir,White River,redd counts,12
+MT,Hungry Horse Reservoir,Wounded Buck Creek,redd counts,27
+MT,Hungry Horse Reservoir,Youngs Creek,redd counts,12
+MT,Kootenai River,Callahan Creek (North),redd counts,13
+MT,Kootenai River,Callahan Creek (South),redd counts,14
+MT,Kootenai River,Libby Creek (Bear Creek),redd counts,25
+MT,Kootenai River,O'Brien Creek,redd counts,29
+MT,Kootenai River,Pipe Creek,redd counts,29
+MT,Kootenai River,Quartz Creek,redd counts,28
+MT,Kootenai River,West Fork Quartz (trib to Quartz),redd counts,30
+MT,Kootenai River,West Fisher Creek,redd counts,27
+MT,Lake Koocanusa,Blue Sky Creek (trib to Graves),redd counts,27
+MT,Lake Koocanusa,Clarence Creek (trib to Graves),redd counts,26
+MT,Lake Koocanusa,Graves Creek,redd counts,25
+MT,Lake Koocanusa,Skookumchuck Cr (B.C.),redd counts,17
+MT,Lake Koocanusa,Middle Fork White River (B.C.),redd counts,14
+MT,Lake Koocanusa,Wigwam River (part in MT),redd counts,21
+MT,Lake Pend Oreille,East Fork Bull River,redd counts,20
+MT,Lake Pend Oreille,South Fork Bull River,redd counts,16
+MT,Lake Pend Oreille,Beatrice Creek,redd counts,18
+MT,Lake Pend Oreille,Fishtrap Creek,redd counts,24
+MT,Lake Pend Oreille,Jungle Creek,redd counts,17
+MT,Lake Pend Oreille,West Fork Fishtrap Creek,redd counts,21
+MT,Lake Pend Oreille,Graves Creek,redd counts,22
+MT,Lake Pend Oreille,Post Creek,redd counts,28
+MT,Lake Pend Oreille,Cooper Gulch,redd counts,18
+MT,Lake Pend Oreille,Crow Creek,redd counts,18
+MT,Lake Pend Oreille,Dry Creek,redd counts,18
+MT,Lake Pend Oreille,Lower Prospect Creek,redd counts,19
+MT,Lake Pend Oreille,Upper Prospect Creek,redd counts,20
+MT,Lake Pend Oreille,Rock Creek,redd counts,18
+MT,Lake Pend Oreille,Swamp Creek,redd counts,19
+MT,Lake Pend Oreille,Vermilion River,redd counts,20
+MT,Lake Pend Oreille,West Fork Thompson River,redd counts,20
+MT,Lake Pend Oreille,"Marten Creek (Not an LP or CH, trib to Clark Fork R.)",redd counts,20
+MT,Lake Pend Oreille,West Fork Trout Creek,redd counts,11
+MT,Lindbergh Lake,"Lindbergh Lake (simple) (Swan R., Crystal Creek)",redd counts,15
+MT,Logging,Logging Creek,redd counts,15
+MT,Lower Quartz Lake,Quartz Creek,redd counts,15
+MT,Middle Clark Fork River,Fish Creek (North Fork),redd counts,21
+MT,Middle Clark Fork River,Fish Creek (West Fork),redd counts,19
+MT,Middle Clark Fork River,Rattlesnake Creek,redd counts,21
+MT,Rock Creek,East Fork Rock Creek,redd counts,25
+MT,Rock Creek,Hogback Creek,redd counts,16
+MT,Rock Creek,Carpp Creek (trib to Middle Rock),redd counts,27
+MT,Rock Creek,Copper Creek (trib to Middle Rock),redd counts,27
+MT,Rock Creek,Middle Fork Rock Creek,redd counts,26
+MT,Rock Creek,Ranch Creek,redd counts,21
+MT,Rock Creek,Ross Fork Rock Creek,redd counts,16
+MT,Rock Creek,Stony Creek,redd counts,28
+MT,Rock Creek,Welcome Creek,redd counts,22
+MT,Rock Creek,Little Stony Creek  (Not a LP),redd counts,21
+MT,Swan Lake,Cold Creek,redd counts,26
+MT,Swan Lake,Elk Creek,redd counts,29
+MT,Swan Lake,Goat Creek,redd counts,30
+MT,Swan Lake,Squeezer Creek,redd counts,29
+MT,Swan Lake,Jim Creek,redd counts,29
+MT,Swan Lake,Lion Creek,redd counts,30
+MT,Swan Lake,Lost Creek (South),redd counts,23
+MT,Swan Lake,Piper Creek,redd counts,27
+MT,Swan Lake,Soup Creek,redd counts,28
+MT,Swan Lake,South Woodward Creek,redd counts,18
+MT,Swan Lake,Woodward Creek,redd counts,25
+MT,Upper Clark Fork River,Boulder Creek,redd counts,11
+MT,Upper Clark Fork River,Twin Lakes Creek,redd counts,22
+MT,Upper Clark Fork River,Warm Springs Creek,redd counts,21
+MT,Upper Clark Fork River,Foster Creek,redd counts,21
+MT,Upper Stillwater Lake,Fitzsimmons Creek (trib to Stillwater R.),redd counts,16
+MT,Upper Stillwater Lake,Stillwater River,redd counts,23
+MT,Upper Whitefish Lake,East Fork Swift Creek,redd counts,23
+MT,West Fork Bitterroot River,Deer Creek,redd counts,25
+MT,Whitefish Lake,Swift Creek (West),redd counts,26
+MT,St. Mary River,Boulder Creek,redd counts,20
+MT,St. Mary River,Kennedy Creek,redd counts,20
+OR,Hood River,Upper Clear Branch,redd counts,15
+OR,Lower Deschutes River,Jefferson/Candle complex,redd counts,29
+OR,Lower Deschutes River,Canyon/Jack/Heising Spring complex,redd counts,29
+OR,Odell Lake,Trapper Creek,redd counts,26
+OR,Upper Willamette River,Trail Bridge Res. complex,redd counts,27
+OR,Upper Willamette River,McKenzie River,redd counts,18
+OR,Upper Willamette River,South Fork McKenzie River,redd counts,22
+OR,Upper Willamette River,Middle Fork Willamette River,redd counts,16
+OR,Imnaha River,Upper Imnaha River,redd counts,17
+OR,Imnaha River,Lower Imnaha River,redd counts,18
+OR,Imnaha River,Cliff Creek,redd counts,17
+OR,Imnaha River,Lower Big Sheep Creek,redd counts,19
+OR,Lookingglass/Wenaha,Lookingglass Creek,weir,22
+OR,Pine-Indian-Wildhorse Creeks,Upper Pine Creek,redd counts,12
+OR,Pine-Indian-Wildhorse Creeks,Clear Creek,redd counts,14
+OR,Pine-Indian-Wildhorse Creeks,Elk Creek,redd counts,20
+OR,Pine-Indian-Wildhorse Creeks,Elk Creek,redd counts,17
+OR,Umatilla River,North Fork Umatilla River,redd counts,27
+OR,Upper Grande Ronde,Catherine Creek,redd counts,16
+OR,Upper Grande Ronde,Catherine Creek,weir,22
+OR,Walla Walla River,South Fork Walla Walla River,redd counts,25
+OR,Walla Walla River,South Fork Walla Walla River,dam counts,19
+OR,Walla Walla River,Mill Creek,redd counts,21
+OR,Wallowa/Minam,Lostine River,redd counts,21
+OR,Wallowa/Minam,Bear Creek,redd counts,21
+WA,Chester Morse Lake,Cedar River,redd counts,12
+WA,Chester Morse Lake,Rex River,redd counts,12
+WA,Lewis River,Lewis Bull Trout,adult count,21
+WA,Lewis River,P8,redd counts,13
+WA,Lewis River,Cougar Creek,redd counts,14
+WA,Lower Skagit River,Lower Skagit Bull Trout,redd counts,12
+WA,Lower Skagit River,West Fork Bacon Creek Bull Trout,redd counts,18
+WA,Lower Skagit River,Cascade River Bull Trout,redd counts,14
+WA,Lower Skagit River,South Fork Sauk River,redd counts,18
+WA,Lower Skagit River,Downey Creek,redd counts,16
+WA,Puyallup River,White River (Puyallup) Bull Trout,trap count,28
+WA,Puyallup River,"Ranger Cr, Carbon R tributary",redd counts,15
+WA,Puyallup River,"Antler Cr, White R tributary",redd counts,16
+WA,Puyallup River,"Deadwood Cr, White R tributary",redd counts,11
+WA,Puyallup River,"Discovery Cr, White R tributary",redd counts,13
+WA,Puyallup River,"Fryingpan Cr, White R tributary",redd counts,17
+WA,Puyallup River,"Klickitat Cr, White R tributary",redd counts,21
+WA,Puyallup River,"Noname Cr, White R tributary",redd counts,16
+WA,Puyallup River,"Parallel Cr, White R tributary",redd counts,14
+WA,Puyallup River,"Shaw Cr, White R tributary",redd counts,14
+WA,Puyallup River,"Sunrise Cr, White R tributary",redd counts,16
+WA,Puyallup River,"w07-00a, White R tributary",redd counts,12
+WA,Puyallup River,"Winzig, White R tributary",redd counts,11
+WA,Puyallup River,"Wright Cr, White R tributary",redd counts,13
+WA,Skokomish River,South Fork Skokomish Bull Trout,redd counts,14
+WA,Skokomish River,Lake Cushman Bull Trout,snorkel,22
+WA,Snohomish and Skykomish Rivers,Skykomish Bull Trout,adult trap_count,21
+WA,Snohomish and Skykomish Rivers,Skykomish Bull Trout,redd counts,28
+WA,Stillaguamish River,SF Stillaguamish R. and Palmer Creek,redd counts,18
+WA,Asotin Creek,Asotin Creek Bull Trout,weir,17
+WA,Entiat River,Entiat Bull Trout,redd counts,24
+WA,Entiat River,Mad River Bull Trout,redd counts,21
+WA,Methow River,Early Winters Creek Bull Trout,redd counts,19
+WA,Methow River,Goat Creek Bull Trout,redd counts,13
+WA,Methow River,Lake Creek Bull Trout,redd counts,18
+WA,Methow River,Twisp Bull Trout,redd counts,19
+WA,Methow River,West Fork Methow Bull Trout,redd counts,18
+WA,Methow River,Wolf Creek Bull Trout,redd counts,17
+WA,Touchet River,North Fork Touchet Bull Trout,redd counts,19
+WA,Touchet River,Wolf Fork Touchet Bull Trout,redd counts,13
+WA,Touchet River,Touchet,weir,22
+WA,Tucannon River,Tucannon,weir,25
+WA,Tucannon River,Tucannon River Bull Trout,redd counts,20
+WA,Tucannon River,Bear Creek Bull Trout,redd counts,19
+WA,Wenatchee River,Phelps Creek Bull Trout,redd counts,17
+WA,Wenatchee River,Rock Creek Bull Trout,redd counts,18
+WA,Wenatchee River,Chiwaukum Creek Bull Trout,redd counts,15
+WA,Wenatchee River,Chikamin Creek Bull Trout,redd counts,21
+WA,Wenatchee River,Little Wenatchee Bull Trout,redd counts,12
+WA,Wenatchee River,Nason Creek Bull Trout,redd counts,14
+WA,Wenatchee River,Panther Creek Bull Trout,redd counts,23
+WA,Wenatchee River,White River (Wenatchee) Bull Trout,redd counts,10
+WA,Yakima River,Ahtanum Creek Bull Trout,redd counts,26
+WA,Yakima River,Ahtanum Creek Bull Trout,redd counts,22
+WA,Yakima River,Ahtanum Creek Bull Trout,redd counts,18
+WA,Yakima River,American River Bull Trout,redd counts,23
+WA,Yakima River,Box Canyon Creek Bull Trout,redd counts,28
+WA,Yakima River,Crow Creek Bull Trout,redd counts,19
+WA,Yakima River,Deep Creek Bull Trout,redd counts,28
+WA,Yakima River,Gold Creek (Yakima) Bull Trout,redd counts,28
+WA,Yakima River,Indian Creek Bull Trout,redd counts,28
+WA,Yakima River,Kachess River Bull Trout,redd counts,20
+WA,Yakima River,North Fork Tieton River Bull Trout,redd counts,13
+WA,Yakima River,Rattlesnake Creek Bull Trout,redd counts,23
+WA,Yakima River,South Fork Tieton Bull Trout,redd counts,24

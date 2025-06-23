@@ -1,0 +1,292 @@
+state,dataset,recovery_unit,core_area,popn_stream,source,first_year,last_year
+ID,1,Upper Snake,Little-Lower Salmon River,Rapid River,weir,1973,2019
+ID,7,Upper Snake,South Fork Salmon River,Johnson Cr,weir,2000,2019
+ID,16,Upper Snake,Upper Salmon,EFK Salmon River,weir,1984,2014
+ID,17,Upper Snake,Upper Salmon,Redfish Lake,fishery_catch_rates,1996,2019
+ID,18,Upper Snake,Upper Salmon,Redfish Lake,weir,2007,2019
+ID,23,COLR Headwaters,LPO,Lightning Creek,redd_counts,1984,2020
+ID,24,COLR Headwaters,LPO,Johnson Cr,redd_counts,1984,2020
+ID,25,COLR Headwaters,LPO,Strong Creek,redd_counts,2008,2020
+ID,26,COLR Headwaters,LPO,Trestle Creek,redd_counts,1984,2020
+ID,27,COLR Headwaters,LPO,Granite Creek,redd_counts,1984,2020
+ID,28,COLR Headwaters,LPO,North Fork Gold Creek,redd_counts,1984,2020
+ID,29,COLR Headwaters,LPO,MFK East River,redd_counts,2001,2020
+ID,30,COLR Headwaters,LPO,Pack River,redd_counts,1984,2020
+ID,31,COLR Headwaters,Kootenai,Callahan,redd_counts,2002,2020
+ID,32,Mid Columbia,North Fork Clearwater,Upper North Fork,redd_counts,2001,2020
+ID,33,COLR Headwaters,Couer d'Alene,Medicine Creek,redd_counts,1992,2020
+ID,34,COLR Headwaters,Couer d'Alene,St Joe River,redd_counts,1992,2020
+ID,35,COLR Headwaters,Couer d'Alene,Wisdom Cr,redd_counts,1992,2020
+ID,36,COLR Headwaters,Priest Lakes,Upper Priest River,redd_counts,1993,2020
+ID,37,COLR Headwaters,Priest Lakes,Hughes Cr,redd_counts,1992,2019
+ID,38,COLR Headwaters,Priest Lakes,Gold Creek,redd_counts,1985,2020
+ID,38,COLR Headwaters,Priest Lakes,Hughes Cr,redd_counts,2020,2020
+ID,39,Upper Snake,Upper Salmon,Fishhook Creek,redd_counts,1998,2020
+ID,40,Upper Snake,Upper Salmon,Alpine Creek,redd_counts,1998,2020
+ID,41,Upper Snake,Upper Salmon,4th of July,redd_counts,2003,2020
+ID,54,COLR Headwaters,LPO,Gold Creek (South),redd_counts,1984,2020
+MT,1,Col Head,Akokala Lake,Akokala Creek,redd_counts,1979,2020
+MT,2,Col Head,Big Salmon Lake,Big Salmon (simple),redd_counts,1979,2020
+MT,6,Col Head,Bitterroot River,Meadow Creek,redd_counts,1979,2020
+MT,7,Col Head,Bitterroot River,East Fork Bitterroot River,redd_counts,1979,2020
+MT,12,Col Head,Bitterroot River,Daly Creek,redd_counts,1979,2020
+MT,17,Col Head,Blackfoot River,Belmont Creek,redd_counts,1979,2020
+MT,19,Col Head,Blackfoot River,Gold Creek,redd_counts,1979,2020
+MT,20,Col Head,Blackfoot River,Landers Fork (Copper Creek Lower),redd_counts,1979,2020
+MT,21,Col Head,Blackfoot River,Landers Fork (Copper Creek Upper),redd_counts,1979,2020
+MT,22,Col Head,Blackfoot River,Snowbank Creek (not a LP orCH),redd_counts,1979,2020
+MT,23,Col Head,Blackfoot River,Duham Creek (trib to Monture),redd_counts,1979,2020
+MT,24,Col Head,Blackfoot River,Monture Creek,redd_counts,1979,2020
+MT,25,Col Head,Blackfoot River,North Fork Blackfoot River,redd_counts,1979,2020
+MT,26,Col Head,Bowman,Bowman Creek,redd_counts,1979,2020
+MT,27,Col Head,Bull Lake,Keeler Creek,redd_counts,1979,2020
+MT,28,Col Head,Bull Lake,North Fork Keeler Creek,redd_counts,1979,2020
+MT,29,Col Head,Bull Lake,South Fork Keeler Creek,redd_counts,1979,2020
+MT,30,CANADA,CANADA,Cabin Creek,redd_counts,1979,2020
+MT,31,CANADA,CANADA,Couldrey Creek,redd_counts,1979,2020
+MT,32,CANADA,CANADA,Howell Creek,redd_counts,1979,2020
+MT,33,CANADA,CANADA,North Fork Flathead River,redd_counts,1979,2020
+MT,34,CANADA,CANADA,Sage Creek,redd_counts,1979,2020
+MT,35,CANADA,CANADA,Wigwam River (Canada),redd_counts,1979,2020
+MT,36,Col Head,Cerulean/Quartz Mid Lakes,Quartz Creek,redd_counts,1979,2020
+MT,37,Col Head,Clearwater,East Fork Clearwater,redd_counts,1979,2020
+MT,38,Col Head,Clearwater,Marshall Creek (upper),redd_counts,1979,2020
+MT,39,Col Head,Clearwater,West Fork Clearwater,redd_counts,1979,2020
+MT,40,Col Head,Clearwater,Morrell Creek,redd_counts,1979,2020
+MT,42,Col Head,Cyclone Lake,Cyclone Creek,redd_counts,1979,2020
+MT,44,Col Head,Flathead Lake,Bear Creek,redd_counts,1979,2020
+MT,45,Col Head,Flathead Lake,Big Creek,redd_counts,1979,2020
+MT,46,Col Head,Flathead Lake,Hallowat Creek,redd_counts,1979,2020
+MT,47,Col Head,Flathead Lake,Bowl Creek,redd_counts,1979,2020
+MT,48,Col Head,Flathead Lake,Clack Creek,redd_counts,1979,2020
+MT,49,Col Head,Flathead Lake,Coal Creek (index),redd_counts,1979,2020
+MT,50,Col Head,Flathead Lake,Mathias Creek,redd_counts,1979,2020
+MT,51,Col Head,Flathead Lake,North Coal,redd_counts,1979,2020
+MT,52,Col Head,Flathead Lake,South Coal,redd_counts,1979,2020
+MT,53,Col Head,Flathead Lake,Granite Creek,redd_counts,1979,2020
+MT,54,Col Head,Flathead Lake,Kishenehn Creek,redd_counts,1979,2020
+MT,55,Col Head,Flathead Lake,Long Creek,redd_counts,1979,2020
+MT,56,Col Head,Flathead Lake,LodgePole Creek (trib to Morrison),redd_counts,1979,2020
+MT,57,Col Head,Flathead Lake,Morrison Creek,redd_counts,1979,2020
+MT,58,Col Head,Flathead Lake,Nyack Creek,redd_counts,1979,2020
+MT,59,Col Head,Flathead Lake,Ole Creek,redd_counts,1979,2020
+MT,60,Col Head,Flathead Lake,Park Creek,redd_counts,1979,2020
+MT,61,Col Head,Flathead Lake,Red Meadow Creek,redd_counts,1979,2020
+MT,62,Col Head,Flathead Lake,DollyVarden Creek,redd_counts,1979,2020
+MT,63,Col Head,Flathead Lake,Schafer Creek,redd_counts,1979,2020
+MT,64,Col Head,Flathead Lake,Strawberry Creek (disjunct),redd_counts,1979,2020
+MT,65,Col Head,Flathead Lake,Trail Creek,redd_counts,1979,2020
+MT,66,Col Head,Flathead Lake,Trail Creek (index),redd_counts,1979,2020
+MT,67,Col Head,Flathead Lake,Whale Creek (index),redd_counts,1979,2020
+MT,68,Col Head,Flathead Lake,Whale Creek (Shorty Creek),redd_counts,1979,2020
+MT,69,Col Head,Flathead Lake,Charlie Creek (not a LP in RP),redd_counts,1979,2020
+MT,70,Col Head,Frozen Lake,Frozen Lake,redd_counts,1979,2020
+MT,71,Col Head,Harrison Lake,Harrison Lake (simple),redd_counts,1979,2020
+MT,72,Col Head,Holland Lake,Holland Creek (simple),redd_counts,1979,2020
+MT,74,Col Head,Hungry Horse Reservoir,Danaher Creek,redd_counts,1979,2020
+MT,75,Col Head,Hungry Horse Reservoir,Rapid Creek,redd_counts,1979,2020
+MT,76,Col Head,Hungry Horse Reservoir,Gordon Creek,redd_counts,1979,2020
+MT,77,Col Head,Hungry Horse Reservoir,Little Salmon Creek,redd_counts,1979,2020
+MT,78,Col Head,Hungry Horse Reservoir,Spotted Bear River,redd_counts,1979,2020
+MT,79,Col Head,Hungry Horse Reservoir,Quintonkon Creek,redd_counts,1979,2020
+MT,80,Col Head,Hungry Horse Reservoir,Sullivan Creek,redd_counts,1979,2020
+MT,81,Col Head,Hungry Horse Reservoir,Wheeler Creek,redd_counts,1979,2020
+MT,82,Col Head,Hungry Horse Reservoir,White River,redd_counts,1979,2020
+MT,83,Col Head,Hungry Horse Reservoir,Wounded Buck Creek,redd_counts,1979,2020
+MT,84,Col Head,Hungry Horse Reservoir,Youngs Creek,redd_counts,1979,2020
+MT,87,Col Head,Kootenai River,Callahan Creek (North),redd_counts,1979,2020
+MT,88,Col Head,Kootenai River,Callahan Creek (South),redd_counts,1979,2020
+MT,89,Col Head,Kootenai River,Libby Creek (Bear Creek),redd_counts,1979,2020
+MT,91,Col Head,Kootenai River,O'Brien Creek,redd_counts,1979,2020
+MT,92,Col Head,Kootenai River,East Fork Pipe Creek (trib to Pipe),redd_counts,1979,2020
+MT,93,Col Head,Kootenai River,Pipe Creek,redd_counts,1979,2020
+MT,94,Col Head,Kootenai River,Quartz Creek,redd_counts,1979,2020
+MT,95,Col Head,Kootenai River,West Fork Quartz (trib to Quartz),redd_counts,1979,2020
+MT,96,Col Head,Kootenai River,West Fisher Creek,redd_counts,1979,2020
+MT,97,Col Head,Lake Koocanusa,Blue Sky Creek (trib to Graves),redd_counts,1979,2020
+MT,98,Col Head,Lake Koocanusa,Clarence Creek (trib to Graves),redd_counts,1979,2020
+MT,99,Col Head,Lake Koocanusa,Graves Creek,redd_counts,1979,2020
+MT,100,Col Head,Lake Koocanusa,Skookumchuck Cr (B.C.),redd_counts,1979,2020
+MT,101,Col Head,Lake Koocanusa,Middle Fork White River (B.C.),redd_counts,1979,2020
+MT,102,Col Head,Lake Koocanusa,Wigwam River (part in MT),redd_counts,1979,2020
+MT,103,Col Head,Lake Pend Oreille,East Fork Bull River,redd_counts,1979,2020
+MT,104,Col Head,Lake Pend Oreille,South Fork Bull River,redd_counts,1979,2020
+MT,106,Col Head,Lake Pend Oreille,Beatrice Creek,redd_counts,1979,2020
+MT,107,Col Head,Lake Pend Oreille,Fishtrap Creek,redd_counts,1979,2020
+MT,108,Col Head,Lake Pend Oreille,Jungle Creek,redd_counts,1979,2020
+MT,109,Col Head,Lake Pend Oreille,West Fork Fishtrap Creek,redd_counts,1979,2020
+MT,110,Col Head,Lake Pend Oreille,Graves Creek,redd_counts,1979,2020
+MT,114,Col Head,Lake Pend Oreille,Post Creek,redd_counts,1979,2020
+MT,115,Col Head,Lake Pend Oreille,Cooper Gulch,redd_counts,1979,2020
+MT,116,Col Head,Lake Pend Oreille,Crow Creek,redd_counts,1979,2020
+MT,117,Col Head,Lake Pend Oreille,Dry Creek,redd_counts,1979,2020
+MT,118,Col Head,Lake Pend Oreille,Lower Prospect Creek,redd_counts,1979,2020
+MT,119,Col Head,Lake Pend Oreille,Upper Prospect Creek,redd_counts,1979,2020
+MT,120,Col Head,Lake Pend Oreille,Rock Creek,redd_counts,1979,2020
+MT,122,Col Head,Lake Pend Oreille,Swamp Creek,redd_counts,1979,2020
+MT,123,Col Head,Lake Pend Oreille,Vermilion River,redd_counts,1979,2020
+MT,124,Col Head,Lake Pend Oreille,West Fork Thompson River,redd_counts,1979,2020
+MT,125,Col Head,Lake Pend Oreille,"Marten Creek (Not an LP or CH, trib to Clark Fork R.)",redd_counts,1979,2020
+MT,126,Col Head,Lake Pend Oreille,West Fork Trout Creek,redd_counts,1979,2020
+MT,128,Col Head,Lindbergh Lake,"Lindbergh Lake (simple) (Swan R., Crystal Creek)",redd_counts,1979,2020
+MT,129,Col Head,Logging,Logging Creek,redd_counts,1979,2020
+MT,130,Col Head,Lower Quartz Lake,Quartz Creek,redd_counts,1979,2020
+MT,132,Col Head,Middle Clark Fork River,Cedar Creek,redd_counts,1979,2020
+MT,133,Col Head,Middle Clark Fork River,Fish Creek (North Fork),redd_counts,1979,2020
+MT,134,Col Head,Middle Clark Fork River,Fish Creek (West Fork),redd_counts,1979,2020
+MT,136,Col Head,Middle Clark Fork River,North Fork Little Joe Creek,redd_counts,1979,2020
+MT,138,Col Head,Middle Clark Fork River,Rattlesnake Creek,redd_counts,1979,2020
+MT,139,Col Head,Middle Clark Fork River,South Fork Little Joe Creek,redd_counts,1979,2020
+MT,142,Col Head,Rock Creek,Butte Cabin Creek,redd_counts,1979,2020
+MT,143,Col Head,Rock Creek,East Fork Rock Creek,redd_counts,1979,2020
+MT,144,Col Head,Rock Creek,Hogback Creek,redd_counts,1979,2020
+MT,145,Col Head,Rock Creek,Carpp Creek (trib to Middle Rock),redd_counts,1979,2020
+MT,146,Col Head,Rock Creek,Copper Creek (trib to Middle Rock),redd_counts,1979,2020
+MT,147,Col Head,Rock Creek,Middle Fork Rock Creek,redd_counts,1979,2020
+MT,148,Col Head,Rock Creek,Ranch Creek,redd_counts,1979,2020
+MT,149,Col Head,Rock Creek,Ross Fork Rock Creek,redd_counts,1979,2020
+MT,150,Col Head,Rock Creek,Stony Creek,redd_counts,1979,2020
+MT,151,Col Head,Rock Creek,West Fork Rock Creek,redd_counts,1979,2020
+MT,152,Col Head,Rock Creek,Welcome Creek,redd_counts,1979,2020
+MT,153,Col Head,Rock Creek,Alder Creek  (Not a LP in 2010),redd_counts,1979,2020
+MT,154,Col Head,Rock Creek,Gilbert Creek  (Not a LP),redd_counts,1979,2020
+MT,155,Col Head,Rock Creek,Little Stony Creek  (Not a LP),redd_counts,1979,2020
+MT,156,Col Head,Rock Creek,Meadow Creek  (Not a LP),redd_counts,1979,2020
+MT,157,Col Head,Rock Creek,Meyers Creek  (Not a LP),redd_counts,1979,2020
+MT,158,St. Mary,St. Mary River,Boulder Creek,redd_counts,1979,2020
+MT,159,St. Mary,St. Mary River,Kennedy Creek,redd_counts,1979,2020
+MT,160,St. Mary,St. Mary River,Lee Creek,redd_counts,1979,2020
+MT,161,Col Head,Swan Lake,Cold Creek,redd_counts,1979,2020
+MT,162,Col Head,Swan Lake,Elk Creek,redd_counts,1979,2020
+MT,163,Col Head,Swan Lake,Goat Creek,redd_counts,1979,2020
+MT,164,Col Head,Swan Lake,Squeezer Creek,redd_counts,1979,2020
+MT,165,Col Head,Swan Lake,Jim Creek,redd_counts,1979,2020
+MT,166,Col Head,Swan Lake,Lion Creek,redd_counts,1979,2020
+MT,167,Col Head,Swan Lake,Lost Creek (North),redd_counts,1979,2020
+MT,168,Col Head,Swan Lake,Lost Creek (South),redd_counts,1979,2020
+MT,169,Col Head,Swan Lake,Piper Creek,redd_counts,1979,2020
+MT,170,Col Head,Swan Lake,Soup Creek,redd_counts,1979,2020
+MT,171,Col Head,Swan Lake,South Woodward Creek,redd_counts,1979,2020
+MT,172,Col Head,Swan Lake,Woodward Creek,redd_counts,1979,2020
+MT,173,Col Head,Trout and Arrow Lakes,Camas Creek (simple),redd_counts,1979,2020
+MT,174,Col Head,Upper Clark Fork River,Boulder Creek,redd_counts,1979,2020
+MT,175,Col Head,Upper Clark Fork River,Twin Lakes Creek,redd_counts,1979,2020
+MT,176,Col Head,Upper Clark Fork River,Warm Springs Creek,redd_counts,1979,2020
+MT,178,Col Head,Upper Clark Fork River,Foster Creek,redd_counts,1979,2020
+MT,181,Col Head,Upper Kintla Lake,Upper Kintla Creek,redd_counts,1979,2020
+MT,182,Col Head,Upper Stillwater Lake,Fitzsimmons Creek (trib to Stillwater R.),redd_counts,1979,2020
+MT,183,Col Head,Upper Stillwater Lake,Stillwater River,redd_counts,1979,2020
+MT,184,Col Head,Upper Whitefish Lake,East Fork Swift Creek,redd_counts,1979,2020
+MT,186,Col Head,West Fork Bitterroot River,Deer Creek,redd_counts,1979,2020
+MT,191,Col Head,West Fork Bitterroot River,Chicken Creek (not a LP or CH),redd_counts,1979,2020
+MT,192,Col Head,West Fork Bitterroot River,West Fork Bitterroot River (CH) (above dam),redd_counts,1979,2020
+MT,193,Col Head,Whitefish Lake,Swift Creek (West),redd_counts,1979,2020
+OR,1,Coastal,Upper Willamette River,Trail Bridge Res. complex,redd_counts,1994,2020
+OR,2,Coastal,Upper Willamette River,McKenzie River,redd_counts,2003,2020
+OR,3,Coastal,Upper Willamette River,South Fork McKenzie River,redd_counts,1999,2020
+OR,4,Coastal,Upper Willamette River,Middle Fork Willamette River,redd_counts,2005,2020
+OR,5,Coastal,Hood River,Upper Clear Branch,redd_counts,2006,2020
+OR,6,Coastal,Lower Deschutes River,Jefferson/Candle complex,redd_counts,1986,2020
+OR,7,Coastal,Lower Deschutes River,Canyon/Jack/Heising Spring complex,redd_counts,1986,2020
+OR,8,Coastal,Odell Lake,Trapper Creek,redd_counts,1994,2020
+OR,10,Mid-Columbia,Umatilla River,North Fork Umatilla River,redd_counts,1994,2020
+OR,11,Mid-Columbia,Walla Walla River,South Fork Walla Walla River,redd_counts,1994,2019
+OR,12,Mid-Columbia,Walla Walla River,South Fork Walla Walla River,dam_counts,2002,2020
+OR,13,Mid-Columbia,Walla Walla River,Mill Creek,redd_counts,1990,2017
+OR,14,Mid-Columbia,Upper Grande Ronde,Catherine Creek,redd_counts,1998,2020
+OR,15,Mid-Columbia,Upper Grande Ronde,Catherine Creek,weir,1999,2020
+OR,16,Mid-Columbia,Wallowa/Minam,Deer Creek,redd_counts,2009,2017
+OR,17,Mid-Columbia,Wallowa/Minam,Lostine River,redd_counts,1999,2019
+OR,18,Mid-Columbia,Wallowa/Minam,Bear Creek,redd_counts,1999,2019
+OR,19,Mid-Columbia,Little Minam River,Little Minam River,redd_counts,1996,2003
+OR,20,Mid-Columbia,Lookingglass/Wenaha,Lookingglass Creek,weir,1999,2020
+OR,21,Mid-Columbia,Imnaha River,Upper Imnaha River,redd_counts,2001,2018
+OR,22,Mid-Columbia,Imnaha River,Lower Imnaha River,redd_counts,2001,2018
+OR,23,Mid-Columbia,Imnaha River,Cliff Creek,redd_counts,2001,2018
+OR,24,Mid-Columbia,Imnaha River,Lower Big Sheep Creek,redd_counts,2000,2019
+OR,25,Mid-Columbia,Pine-Indian-Wildhorse Creeks,Upper Pine Creek,redd_counts,2001,2013
+OR,26,Mid-Columbia,Pine-Indian-Wildhorse Creeks,Clear Creek,redd_counts,1999,2012
+OR,27,Mid-Columbia,Pine-Indian-Wildhorse Creeks,Elk Creek,redd_counts,1998,2017
+OR,28,Mid-Columbia,Pine-Indian-Wildhorse Creeks,Elk Creek,redd_counts,1998,2014
+WA,1,Coastal,Lewis River,Lewis Bull Trout,adult_count,1991,2020
+WA,2,Coastal,Lower Skagit River,Lower Skagit Bull Trout,redd_counts,1988,2008
+WA,3,Coastal,Puyallup River,White River (Puyallup) Bull Trout,trap_count,1987,2018
+WA,4,Coastal,Skokomish River,South Fork Skokomish Bull Trout,redd_counts,2000,2019
+WA,5,Coastal,Snohomish and Skykomish Rivers,Skykomish Bull Trout,adult_trap_count,1994,2014
+WA,6,Coastal,Snohomish and Skykomish Rivers,Skykomish Bull Trout,redd_counts,1988,2019
+WA,7,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,redd_counts,1990,2020
+WA,8,Mid Columbia,Lookingglass/Wenaha,Butte Creek Bull Trout,redd_counts,2005,2020
+WA,9,Mid Columbia,Lookingglass/Wenaha,North Fork Wenaha River Bull Trout,redd_counts,2005,2020
+WA,10,Mid Columbia,Methow River,Early Winters Creek Bull Trout,redd_counts,1996,2017
+WA,11,Mid Columbia,Methow River,Goat Creek Bull Trout,redd_counts,1995,2016
+WA,12,Mid Columbia,Methow River,Lost River Bull Trout,redd_counts,1995,2016
+WA,13,Mid Columbia,Touchet River,North Fork Touchet Bull Trout,redd_counts,1990,2020
+WA,14,Mid Columbia,Touchet River,Wolf Fork Touchet Bull Trout,redd_counts,2005,2020
+WA,18,Mid Columbia,Wenatchee River,Phelps Creek Bull Trout,redd_counts,1989,2013
+WA,19,Mid Columbia,Wenatchee River,Rock Creek Bull Trout,redd_counts,1989,2013
+WA,20,Mid Columbia,Yakima River,Ahtanum Creek Bull Trout,redd_counts,1993,2018
+WA,21,Mid Columbia,Yakima River,Ahtanum Creek Bull Trout,redd_counts,1996,2018
+WA,22,Mid Columbia,Yakima River,Ahtanum Creek Bull Trout,redd_counts,2000,2018
+WA,23,Mid Columbia,Yakima River,American River Bull Trout,redd_counts,1996,2018
+WA,24,Mid Columbia,Yakima River,Box Canyon Creek Bull Trout,redd_counts,1984,2018
+WA,26,Mid Columbia,Yakima River,Crow Creek Bull Trout,redd_counts,1999,2018
+WA,27,Mid Columbia,Yakima River,Deep Creek Bull Trout,redd_counts,1989,2018
+WA,28,Mid Columbia,Yakima River,Gold Creek (Yakima) Bull Trout,redd_counts,1984,2018
+WA,29,Mid Columbia,Yakima River,Indian Creek Bull Trout,redd_counts,1984,2018
+WA,30,Mid Columbia,Yakima River,Kachess River Bull Trout,redd_counts,1998,2018
+WA,32,Mid Columbia,Yakima River,North Fork Tieton River Bull Trout,redd_counts,2004,2018
+WA,33,Mid Columbia,Yakima River,Rattlesnake Creek Bull Trout,redd_counts,1996,2018
+WA,34,Mid Columbia,Yakima River,South Fork Tieton Bull Trout,redd_counts,1994,2018
+WA,36,Coastal,Snohomish and Skykomish Rivers,Skykomish Bull Trout,escapement,1988,1997
+WA,37,Coastal,Skokomish River,South Fork Skokomish Bull Trout,snorkel,2014,2019
+WA,38,Coastal,Lower Skagit River,West Fork Bacon Creek Bull Trout,redd_counts,2002,2019
+WA,42,Coastal,Stillaguamish River,SF Stillaguamish R. and Palmer Creek,redd_counts,2002,2019
+WA,43,Coastal,Chester Morse Lake,Cedar River,redd_counts,2000,2011
+WA,44,Coastal,Puyallup River,"Ranger Cr, Carbon R tributary",redd_counts,2002,2020
+WA,990,Mid Columbia,Touchet River,Touchet,weir,1999,2020
+WA,991,Mid Columbia,Tucannon River,Tucannon,weir,1995,2020
+WA,993,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,weir,2004,2020
+WA,1000,Mid Columbia,Wenatchee River,Chiwaukum Creek Bull Trout,redd_counts,2001,2020
+WA,1001,Mid Columbia,Wenatchee River,Chikamin Creek Bull Trout,redd_counts,1989,2020
+WA,1002,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,redd_counts,1989,2012
+WA,1005,Mid Columbia,Methow River,East Fork Buttermilk Creek Bull Trout,redd_counts,1995,2017
+WA,1006,Mid Columbia,Entiat River,Entiat Bull Trout,redd_counts,1994,2020
+WA,1007,Mid Columbia,Methow River,Gold Creek (Methow) Bull Trout,redd_counts,1996,2016
+WA,1010,Mid Columbia,Methow River,Lake Creek Bull Trout,redd_counts,1995,2017
+WA,1011,Coastal,Skokomish River,Lake Cushman Bull Trout,snorkel,1995,2019
+WA,1012,Mid Columbia,Wenatchee River,Little Wenatchee Bull Trout,redd_counts,1999,2020
+WA,1013,Mid Columbia,Entiat River,Mad River Bull Trout,redd_counts,1989,2020
+WA,1014,Mid Columbia,Methow River,Monument Creek Bull Trout,redd_counts,2012,2013
+WA,1015,Mid Columbia,Wenatchee River,Nason Creek Bull Trout,redd_counts,1989,2020
+WA,1016,Mid Columbia,Wenatchee River,Panther Creek Bull Trout,redd_counts,1983,2020
+WA,1018,Mid Columbia,Methow River,Twisp Bull Trout,redd_counts,1990,2017
+WA,1020,Mid Columbia,Methow River,West Fork Buttermilk Creek Bull Trout,redd_counts,2002,2017
+WA,1021,Mid Columbia,Methow River,West Fork Methow Bull Trout,redd_counts,1995,2017
+WA,1022,Mid Columbia,Wenatchee River,White River (Wenatchee) Bull Trout,redd_counts,1999,2012
+WA,1023,Mid Columbia,Methow River,Wolf Creek Bull Trout,redd_counts,1996,2017
+WA,1025,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,redd_counts,2013,2020
+WA,1026,Mid Columbia,Wenatchee River,Phelps Creek Bull Trout,redd_counts,2014,2020
+WA,1027,Mid Columbia,Wenatchee River,Rock Creek Bull Trout,redd_counts,2014,2020
+WA,1028,Mid Columbia,Wenatchee River,White River (Wenatchee) Bull Trout,redd_counts,2013,2020
+WA,1031,Coastal,Lewis River,P8,redd_counts,2008,2020
+WA,1033,Coastal,Lewis River,Cougar Creek,redd_counts,2007,2020
+WA,1050,Mid Columbia,Tucannon River,Tucannon River Bull Trout,redd_counts,1994,2014
+WA,1051,Mid Columbia,Tucannon River,Bear Creek Bull Trout,redd_counts,1994,2014
+WA,1052,Coastal,Lower Skagit River,Cascade River Bull Trout,redd_counts,2006,2019
+WA,1054,Coastal,Lower Skagit River,South Fork Sauk River,redd_counts,2002,2019
+WA,1055,Coastal,Lower Skagit River,Downey Creek,redd_counts,2003,2019
+WA,1056,Coastal,Chester Morse Lake,Rex River,redd_counts,2000,2011
+WA,1057,Coastal,Chester Morse Lake,Rack River and Shotgun,redd_counts,2000,2011
+WA,1058,Coastal,Puyallup River,"Antler Cr, White R tributary",redd_counts,2005,2020
+WA,1059,Coastal,Puyallup River,"Deadwood Cr, White R tributary",redd_counts,2002,2020
+WA,1060,Coastal,Puyallup River,"Discovery Cr, White R tributary",redd_counts,2007,2020
+WA,1061,Coastal,Puyallup River,"Fryingpan Cr, White R tributary",redd_counts,2002,2020
+WA,1062,Coastal,Puyallup River,"Klickitat Cr, White R tributary",redd_counts,2000,2020
+WA,1063,Coastal,Puyallup River,"Noname Cr, White R tributary",redd_counts,2002,2020
+WA,1064,Coastal,Puyallup River,"Parallel Cr, White R tributary",redd_counts,2006,2020
+WA,1065,Coastal,Puyallup River,"Shaw Cr, White R tributary",redd_counts,2005,2020
+WA,1066,Coastal,Puyallup River,"Sunrise Cr, White R tributary",redd_counts,2002,2020
+WA,1067,Coastal,Puyallup River,"w07-00a, White R tributary",redd_counts,2009,2020
+WA,1068,Coastal,Puyallup River,"Winzig, White R tributary",redd_counts,2009,2020
+WA,1069,Coastal,Puyallup River,"Wright Cr, White R tributary",redd_counts,2007,2020
+WA,1076,Coastal,Skokomish River,Lake Cushman Bull Trout,snorkel,1971,1994

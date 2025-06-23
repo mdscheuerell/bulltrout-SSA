@@ -1,0 +1,592 @@
+---
+title: "Trend analysis for USFWS species status assessment for bull trout (_Salvelinus confluentus_)"
+author: "Mark Scheuerell"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+## load {knitcitations}
+library("knitcitations")
+
+## clean out any existing .bib files
+# cleanbib()
+
+## set pandoc for formatting
+options("citation_format" = "pandoc")
+```
+
+\vspace{4in}
+
+This draft is distributed solely for purposes of internal review. Its content is deliberative and predecisional, so it must not be disclosed or released. Because it has not yet been approved for publication by the U.S. Geological Survey (USGS), it does not represent any official USGS finding or policy.
+
+\newpage
+
+# Background
+
+Bull trout (_Salvelinus confluentus_) in the western U.S. were listed as threatened under the U.S. Endangered Species Act in 1998. The purpose of this analysis is to estimate trends in the abundance (counts) of bull trout within predefined core areas spread across Oregon, Washington, Idaho, and Montana, as part of the current Species Status Assessment (SSA).
+
+## Data
+
+I provided a MS Excel template for the desired data in a "tidy" format, which consisted of the following 8 fields (columns):
+
+* `dataset` (i.e., integer value for unique ID)
+* `recovery unit` (e.g., Mid Columbia)
+* `core area` (e.g., South Fork Clearwater)
+* `popn/stream` (e.g., Crooked River)
+* `metric` (e.g., abundance)
+* `method` (e.g., redd survey)
+* `year`
+* `value` (i.e., counts)
+
+The data coordinators also provided me with some metadata indicating which of the data specific to a location were generally for adults versus juveniles. Data files were subsequently provided to me by data coordinators from each of the four states:
+
+* Oregon: Stephanie Gunckel (ODFW)
+* Washington: Marie Winkowski (WDFW)
+* Idaho: Brett Bowersox (IDFG)
+* Montana: Dan Brewer (USFWS)
+
+The data from Montana came via biologists with the USGS (Clint Muhlfeld, Tim Cline), and did not conform to the template file I had provided. Thus, those data were subjected to additional cleaning prior to their inclusion with the data from other states (see below).
+
+Prior to analysis, all of the count data were log-transformed and standardized to a mean of zero and variance of one, which aided in model fitting and, in particular, the estimation of the process and observation (sampling) variances.
+
+# Modeling framework
+
+## Population model
+
+I fit discrete-time versions of exponential models for population growth (decline), such that the abundance of bull trout $(N)$ is a function of the initial population size $N_0$, time $(t)$, the population growth rate $(u)$, and a time-dependent stochastic effect of the environment $(w)$. Specifically, in continuous time the model is
+
+\begin{equation}
+N(t) = N_0 \exp(u) \exp(w t).
+\end{equation}
+
+In discrete time, with a time step of 1 unit (e.g., a year), the model becomes
+
+\begin{equation}
+N_t = N_{t-1} \exp(u + w_t).
+\end{equation}
+
+If we take the logarithm of both sides and define $x_t = \log(N_t)$, we have
+
+\begin{equation} \label{brw}
+x_t = x_{t-1} + u + w_t.
+\end{equation}
+
+Further defining $w_t \sim \text{N}(0, q)$ leads us to a so-called "biased random walk" model, where $u$ is the tendency for the population to increase or decrease each time step (i.e., the bias), and $w_t$ is some unknown stochastic aspect of the environment that partially drives population dynamics.
+
+### Observation model
+
+The data available to us rarely come from complete censuses, and instead are typically derived from partial counts. Furthermore, mistakes may occur when counting individuals or redds. Thus, we should account for these possible sampling or observation errors with a so-called "data model".
+
+In this case, we assume that the data in hand are a somewhat distorted view of the "true state of nature", such that the logarithm of the observed count at time $t$ $(y_t)$ equals that of the true count plus or minus some error. Specifically, we can write this as
+
+\begin{equation} \label{obs}
+y_t = x_t + a + v_t
+\end{equation}
+
+where $a$ is an offset to account for partial sampling, and $v_t \sim \text{N}(0, r)$.
+
+### State-space model
+
+We can combine equations (\ref{brw}) and (\ref{obs}), along with a definition for the initial state $(x_0)$, into a so-called "state-space model", where
+
+\begin{equation} \label{ssm}
+  \begin{gathered}
+    y_t = x_t + a + v_t \\
+    x_t = x_{t-1} + u + w_t \\
+    x_0 \sim \text{N}(\mu, \sigma) 
+  \end{gathered}
+\end{equation}
+
+
+## Multiple populations
+
+Here we want to estimate the annual change in population size for each of the many different core areas across the four states. Furthermore, some core areas comprise several different populations/locations, so we need to frame our state-space model in a multivariate context. 
+
+### Observation model
+
+If we have $n$ different populations within a core area, then our observation model becomes
+
+\begin{equation}
+  y_{i,t} = x_{i,t} + a_i + v_{i,t}
+\end{equation}
+
+where $y_{i,t}$ is the log-count for population $i$ and year $t$, $a_i$ is an offset to account for partial sampling in population $i$, and $v_{i,t} \sim \text{N}(0, r_i)$\footnote{Here the variance of the observation errors is assumed to be population specific, but it might be reasonable to assume that each survey/census type might have the same variance, such that $v_{i,t} \sim \text{N}(0, r)$.}. We can combine each of the population specific observation models into a matrix form, such that
+
+\begin{equation} 
+  \begin{gathered}
+    y_{1,t} = x_{1,t} + a_1 + v_{1,t} \\
+    y_{2,t} = x_{2,t} + a_2 + v_{2,t} \\
+    \vdots \\
+    y_{n,t} = x_{n,t} + a_3 + v_{n,t} \\
+  \end{gathered} 
+\end{equation}
+
+becomes
+
+\begin{equation} \label{lobs}
+\begin{bmatrix}
+    y_{1} \\
+    y_{2} \\
+    \vdots \\
+    y_{n} \end{bmatrix}_t = 
+ \begin{bmatrix}
+    x_{1} \\
+    x_{2} \\
+    \vdots \\
+    x_{n} \end{bmatrix}_t + 
+ \begin{bmatrix}
+    a_1 \\
+    a_2 \\
+    \vdots \\
+    a_n \end{bmatrix} + 
+ \begin{bmatrix}
+    v_{1} \\
+    v_{2} \\
+    \vdots \\
+    v_{n} \end{bmatrix}_t,
+\end{equation}
+
+or more compactly in matrix notation as
+
+\begin{equation} \label{mobs}
+  \mathbf{y}_t = \mathbf{x}_t + \mathbf{a} + \mathbf{v}_t.
+\end{equation}
+
+where $\mathbf{y}_t$, $\mathbf{x}_t$, $\mathbf{a}$, $\mathbf{v}_t$ are all $n \times 1$ vectors, and $\mathbf{w}_t \sim \text{MVN}(\mathbf{0}, \mathbf{Q})$.
+
+### Population model
+
+Just as we did for the observation model, we can write the models for population dynamics as
+
+\begin{equation}
+  x_{j,t} = x_{j,t-1} + u_j + w_{j,t}
+\end{equation}
+
+where $u_i$ is the bias, which is unique to each population\footnote{It might be reasonable to assume that some/all of the populations have the same bias, given their membership within a core area.}, and $w_{j,t} \sim \text{N}(0, q)$}.
+
+We can again express all of the population models in matrix form, such that
+
+\begin{equation} 
+  \begin{gathered}
+    x_{1,t} = x_{1,t-1} + u_1 + w_{1,t} \\
+    x_{2,t} = x_{2,t-1} + u_2 + w_{2,t} \\
+    \vdots \\
+    x_{n,t} = x_{n,t-1} + u_3 + w_{n,t} \\
+  \end{gathered} 
+\end{equation}
+
+becomes
+
+\begin{equation}
+\begin{bmatrix}
+    x_1 \\
+    x_2 \\
+    \vdots \\
+    x_n \end{bmatrix}_t = 
+ \begin{bmatrix}
+    x_1 \\
+    x_2 \\
+    \vdots \\
+    x_n \end{bmatrix}_t + 
+ \begin{bmatrix}
+    u_1 \\
+    u_2 \\
+    \vdots \\
+    u_n \end{bmatrix} + 
+ \begin{bmatrix}
+    w_{1} \\
+    w_{2} \\
+    \vdots \\
+    w_{n} \end{bmatrix}_t,
+\end{equation}
+
+or more compactly in matrix notation as
+
+\begin{equation} \label{mbrw}
+  \mathbf{x}_t = \mathbf{x}_{t-1} + \mathbf{u} + \mathbf{w}_t
+\end{equation}
+
+where $\mathbf{x}_t$, $\mathbf{x}_{t-1}$, $\mathbf{u}$, $\mathbf{w}_t$ are all $n \times 1$ vectors, and $\mathbf{w}_t \sim \text{MVN}(\mathbf{0}, \mathbf{Q})$.
+
+
+### State-space forms
+
+At this point, however, we are assuming that the monitoring data for each population is telling us something about only the specific population itself, rather than contributing information to the population trend at the larger scale of their core area, which is the really the scale of interest here. Thus, we need to modify our equations to accommodate this hierarchical framework.
+
+For example, assume that we have $p = 2$ core areas (call them $A$ and $B$), each with data from 2 representative populations. In this case, $n = 4$, but the number of states (i.e., the number of rows in $\mathbf{x}_t$) is 2, so we need a way to "map" each of the observed time series onto its respective core area. We begin by writing out the equations for the observations in long matrix form akin to equation (\ref{lobs}), such that
+
+\begin{equation} \label{ex:obs}
+\begin{bmatrix}
+    y_{1} \\
+    y_{2} \\
+    y_{3} \\
+    y_{4} \end{bmatrix}_t = 
+ \begin{bmatrix}
+    x_{A} \\
+    x_{A} \\
+    x_{B} \\
+    x_{B} \end{bmatrix}_t + 
+ \begin{bmatrix}
+    a_1 \\
+    a_2 \\
+    a_3 \\
+    a_4 \end{bmatrix} + 
+ \begin{bmatrix}
+    v_{1} \\
+    v_{2} \\
+    v_{3} \\
+    v_{4} \end{bmatrix}_t,
+\end{equation}
+
+Because both $x_A$ and $x_B$ appear twice in equation (\ref{ex:obs}), we can use a $4 \times 2$ matrix of 1's and 0's as our map. Specifically, we have
+
+\begin{equation} \label{ex:obs2}
+\begin{bmatrix}
+    y_{1} \\
+    y_{2} \\
+    y_{3} \\
+    y_{4} \end{bmatrix}_t = 
+\begin{bmatrix}
+    1 & 0 \\
+    1 & 0 \\
+    0 & 1 \\
+    0 & 1 \end{bmatrix}  
+ \begin{bmatrix}
+    x_{A} \\
+    x_{B} \end{bmatrix}_t +
+ \begin{bmatrix}
+    a_1 \\
+    a_2 \\
+    a_3 \\
+    a_4 \end{bmatrix} + 
+ \begin{bmatrix}
+    v_{1} \\
+    v_{2} \\
+    v_{3} \\
+    v_{4} \end{bmatrix}_t,
+\end{equation}
+
+We can write equation (\ref{ex:obs2}) more compactly in matrix notation as
+
+\begin{equation} \label{mobs2}
+  \mathbf{y}_t = \mathbf{Z} \mathbf{x}_t + \mathbf{a} + \mathbf{v}_t.
+\end{equation}
+
+where $\mathbf{y}_t$, $\mathbf{a}$, and $\mathbf{v}_t$ are all $n \times 1$ vectors, $\mathbf{Z}$ is an $n \times k$ matrix, and $\mathbf{x}_t$ is a $k \times 1$ vector.
+
+The equation for the population dynamics in each of the 2 core areas then becomes
+
+\begin{equation}
+\begin{bmatrix}
+    x_{A} \\
+    x_{B} \end{bmatrix}_t = 
+ \begin{bmatrix}
+    x_{A} \\
+    x_{B} \end{bmatrix}_{t-1} + 
+ \begin{bmatrix}
+    u_A \\
+    u_B \end{bmatrix} + 
+ \begin{bmatrix}
+    w_A \\
+    w_B \end{bmatrix}_t,
+\end{equation}
+
+which can be written more compactly in matrix notation as
+
+\begin{equation}
+  \mathbf{x}_t = \mathbf{x}_{t-1} + \mathbf{u} + \mathbf{w}_t,
+\end{equation}
+
+and combined with equation (\ref{mobs2}) to form the full multivariate state-space model
+
+\begin{equation} \label{mssm}
+  \begin{gathered}
+    \mathbf{y}_t = \mathbf{Z} \mathbf{x}_t + \mathbf{a} + \mathbf{v}_t \\
+    \mathbf{x}_t = \mathbf{x}_{t-1} + \mathbf{u} + \mathbf{w}_t.
+  \end{gathered}
+\end{equation}
+
+Thus, by simply altering the dimensions of $\mathbf{Z}$, and the locations of 1's and 0's within it, we can evaluate any number of different hypotheses about how the population dynamics are structured spatially. For example, if we set $\mathbf{Z}$ equal to an $n \times n$ identity matrix, where
+
+\begin{equation}
+  \mathbf{Z} = 
+    \begin{bmatrix}
+      1 & 0 & \cdots & 0 \\
+      0 & 1 & \cdots & 0 \\
+      \vdots & \vdots & \ddots & \vdots \\
+      0 & 0 & \cdots & 1 \\
+    \end{bmatrix}, 
+\end{equation}
+
+then each of the time series of data is assumed to represent a unique state of nature. If, on the other hand, we set $\mathbf{Z}$ equal to an $n \times 1$ column vector of 1's, such that
+
+\begin{equation}
+  \mathbf{Z} = 
+    \begin{bmatrix}
+      1 \\
+      1 \\
+      \vdots \\
+      1 \\
+    \end{bmatrix}, 
+\end{equation}
+
+then each of the time series of data is assumed to represent a sample from a single state of nature.
+
+
+### Variance specification
+
+The multivariate state-space model allows us to be quite specific about how the observation errors $(\mathbf{v}_t)$ and process errors $(\mathbf{w}_t)$ are related to one another, if at all. In the most simple case, the errors could be independent and identically distributed (IID), such that (for the observation variance)
+
+\begin{equation} 
+  \mathbf{R} = 
+    \begin{bmatrix}
+      r & 0 & \cdots & 0 \\
+      0 & r & \cdots & 0 \\
+      \vdots & \vdots & \ddots & \vdots \\
+      0 & 0 & \cdots & r \\
+    \end{bmatrix}.
+\end{equation} 
+
+Alternatively, the errors might be independent, but not identically distributed
+
+\begin{equation} 
+  \mathbf{R} = 
+    \begin{bmatrix}
+      r_1 & 0 & \cdots & 0 \\
+      0 & r_2 & \cdots & 0 \\
+      \vdots & \vdots & \ddots & \vdots \\
+      0 & 0 & \cdots & r_n \\
+    \end{bmatrix},
+\end{equation} 
+
+or identically distributed, but not independent
+
+\begin{equation} 
+  \mathbf{R} = 
+    \begin{bmatrix}
+      r & c & \cdots & c \\
+      c & r & \cdots & c \\
+      \vdots & \vdots & \ddots & \vdots \\
+      c & c & \cdots & r \\
+    \end{bmatrix}.
+\end{equation} 
+
+
+# Model fitting
+
+The adult data come from 244 populations within 62 core area spread across the 6 recovery domains. Thus, $\mathbf{y}_t$ is a 244 $\times$ 1 vector of transformed observed counts in year $t$, and $\mathbf{x}_t$ is a 62 $\times$ 1 vector of underlying states in year $t$. The matrix $\mathbf{Z}$ is a 244 $\times$ 62 matrix of 1's and 0's that maps each of the respective observations onto their respective states. 
+
+The juvenile data are much more restricted, coming from 31 populations within 15 core area spread across the 6 recovery domains. Thus, $\mathbf{y}_t$ is a 31 $\times$ 1 vector of transformed observed counts in year $t$, and $\mathbf{x}_t$ is a 15 $\times$ 1 vector of underlying states in year $t$. The matrix $\mathbf{Z}$ is a 31 $\times$ 15 matrix of 1's and 0's that maps each of the respective observations onto their respective states.
+
+All trends were estimated for the period covering 2008-2020 to reflect the most recent data.
+
+Because the source of the data varies by location, I estimated different variance terms for each of the methods (e.g., screw trap, snorkel survey, weir). Specifically, the covariance matrix is given by
+
+\begin{equation} 
+  \mathbf{R} = 
+    \begin{bmatrix}
+      r_i & 0 & \cdots & 0 \\
+      0 & r_i & \cdots & 0 \\
+      \vdots & \vdots & \ddots & \vdots \\
+      0 & 0 & \cdots & r_i \\
+    \end{bmatrix}.
+\end{equation} 
+
+where $i$ indicates the source of the data.
+
+In this particular case, the data were standardized prior to model fitting, so I assumed that the process errors ($w_{j,t}$) were independent and identically distributed, such that
+
+\begin{equation} 
+  \mathbf{Q} = 
+    \begin{bmatrix}
+      q & 0 & \cdots & 0 \\
+      0 & q & \cdots & 0 \\
+      \vdots & \vdots & \ddots & \vdots \\
+      0 & 0 & \cdots & q \\
+    \end{bmatrix}.
+\end{equation} 
+
+All models were fit using the `{MARSS}` package `r citep(citation("MARSS"))` for the **R** computing software `r citep(citation())`. I estimated 90% confidence intervals (CI's) around each of the estimated bias terms $(u_j)$ using the `MARSSparamCIs()` function based upon an asymptotic variance assumption. All of the data and code necessary to reproduce the results of the analysis can be found online at https://github.com/mdscheuerell/bulltrout.
+
+
+# Results
+
+## Adult abundance
+
+Estimated trends in adult abundance were rather mixed. For trends fit over the entire time period, such that 37 out of 62 core areas showed decreasing trends, but only 3 of trends had 90% CI's that did not overlap 0 (Tables 1-4). The remaining 25 core areas had increasing trends, but only 5 of them had 90% CI's that did not overlap 0 (Tables (1-4). Fitted trend lines and their associated CI's are provided in Appendix A.
+
+For trends fit over the later time period from 2008-2020, the results were less optimistic. There were negative trends in 41 of 62 core areas, and 12 of them were significantly so (Tables 6-9). The remaining 21 core areas had generally positive trends, but only one of them was significant (Tables 6-9). Fitted trend lines and their associated CI's are provided in Appendix B.
+
+
+## Juvenile abundance
+
+Estimated trends in juvenile abundance were also mixed. When fit over the entire time period, 10 of 19 core areas were decreasing, but only 4 of trends had 90% CI's that did not overlap 0 (Table 5). The remaining 9 core areas had increasing trends, and 6 of them had 90% CI's that did not overlap 0 (Tables 5). Fitted trend lines and their associated CI's are provided in Appendix C.
+
+For trends fit the to more recent period of 2008-2020, 11 of 19 core areas had decreasing trends, and 6 of them were significantly so. The remaining 8 core areas we generally increasing, but only 2 of them showed significant trends over time. Fitted trend lines and their associated CI's are provided in Appendix D.
+
+\newpage
+
+# References
+
+```{r lit_cited}
+## create ref cited section
+write.bibtex(file = "references.bib")
+```
+
+::: {#refs}
+:::
+
+\newpage
+
+```{r tbl_results_adults_full, results = 'hold'}
+library(dplyr)
+## get point estimates and CI's
+tbl_res <- read.csv(here::here("output", "bull_trout_SSA_all_states_adults_biases.csv"))
+
+state_core_popn <- stringr::str_split_fixed(tbl_res$X, pattern = ": ", 3) %>%
+  as.data.frame()
+colnames(state_core_popn) <- c("state", "domain", "core")
+
+tbl_res <- cbind(state_core_popn, tbl_res[,-1])
+
+## MT
+tbl_res_MT <- tbl_res %>%
+  filter(state == "MT") %>%
+  select(!(state:domain))
+
+kableExtra::kable(tbl_res_MT, booktabs = TRUE,
+                  col.names = c("Core area", "Lower CI", "Mean", "Upper CI", "Trend"),
+                  align = "lcccc",
+                  caption = "Estimated full period trends and uncertainty for adult bull trout in core areas in Montana. The trend column indicates if the estimated trend was significantly positive (+), negative (-), or neutral (0).") %>%
+  kableExtra::kable_styling(latex_options = "HOLD_position")
+
+## ID
+tbl_res_MT <- tbl_res %>%
+  filter(state == "ID") %>%
+  select(!(state:domain))
+
+kableExtra::kable(tbl_res_MT, booktabs = TRUE,
+                  col.names = c("Core area", "Lower CI", "Mean", "Upper CI", "Trend"),
+                  align = "lcccc",
+                  caption = "Estimated full period trends and uncertainty for adult bull trout in core areas in Idaho. The trend column indicates if the estimated trend was significantly positive (+), negative (-), or neutral (0).") %>%
+  kableExtra::kable_styling(latex_options = "HOLD_position")
+
+## WA
+tbl_res_WA <- tbl_res %>%
+  filter(state == "WA") %>%
+  select(!(state:domain))
+
+kableExtra::kable(tbl_res_WA, booktabs = TRUE,
+                  col.names = c("Core area", "Lower CI", "Mean", "Upper CI", "Trend"),
+                  align = "lcccc",
+                  caption = "Estimated full period trends and uncertainty for adult bull trout in core areas in Washington. The trend column indicates if the estimated trend was significantly positive (+), negative (-), or neutral (0).") %>%
+  kableExtra::kable_styling(latex_options = "HOLD_position")
+
+## OR
+tbl_res_OR <- tbl_res %>%
+  filter(state == "OR") %>%
+  select(!(state:domain))
+
+kableExtra::kable(tbl_res_OR, booktabs = TRUE,
+                  col.names = c("Core area", "Lower CI", "Mean", "Upper CI", "Trend"),
+                  align = "lcccc",
+                  caption = "Estimated full period trends and uncertainty for adult bull trout in core areas in Oregon. The trend column indicates if the estimated trend was significantly positive (+), negative (-), or neutral (0).") %>%
+  kableExtra::kable_styling(latex_options = "HOLD_position")
+
+## get point estimates and CI's
+tbl_res_j <- read.csv(here::here("output", "bull_trout_SSA_all_states_juveniles_biases.csv"))
+
+state_core_popn_j <- stringr::str_split_fixed(tbl_res_j$X, pattern = ": ", 3) %>%
+  as.data.frame()
+colnames(state_core_popn_j) <- c("state", "domain", "core")
+
+tbl_res_j <- cbind(state_core_popn_j, tbl_res_j[,-1]) %>%
+  select(!domain)
+
+kableExtra::kable(tbl_res_j, booktabs = TRUE,
+                  col.names = c("State", "Core area", "Lower CI", "Mean", "Upper CI", "Trend"),
+                  align = "llcccc",
+                  caption = "Estimated full period trends and uncertainty for juvenile bull trout in Idaho, Washington, and Oregon. The trend column indicates if the estimated trend was significantly positive (+), negative (-), or neutral (0).") %>%
+  kableExtra::kable_styling(latex_options = "HOLD_position")
+
+```
+
+
+\newpage
+
+```{r tbl_results_adults_late, results = 'hold'}
+library(dplyr)
+## get point estimates and CI's
+tbl_res <- read.csv(here::here("output", "bull_trout_SSA_all_states_adults_late_biases.csv"))
+
+state_core_popn <- stringr::str_split_fixed(tbl_res$X, pattern = ": ", 3) %>%
+  as.data.frame()
+colnames(state_core_popn) <- c("state", "domain", "core")
+
+tbl_res <- cbind(state_core_popn, tbl_res[,-1])
+
+## MT
+tbl_res_MT <- tbl_res %>%
+  filter(state == "MT") %>%
+  select(!(state:domain))
+
+kableExtra::kable(tbl_res_MT, booktabs = TRUE,
+                  col.names = c("Core area", "Lower CI", "Mean", "Upper CI", "Trend"),
+                  align = "lcccc",
+                  caption = "Estimated late period (2008-2020) trends and uncertainty for adult bull trout in core areas in Montana. The trend column indicates if the estimated trend was significantly positive (+), negative (-), or neutral (0).") %>%
+  kableExtra::kable_styling(latex_options = "HOLD_position")
+
+## ID
+tbl_res_MT <- tbl_res %>%
+  filter(state == "ID") %>%
+  select(!(state:domain))
+
+kableExtra::kable(tbl_res_MT, booktabs = TRUE,
+                  col.names = c("Core area", "Lower CI", "Mean", "Upper CI", "Trend"),
+                  align = "lcccc",
+                  caption = "Estimated late period (2008-2020) trends and uncertainty for adult bull trout in core areas in Idaho. The trend column indicates if the estimated trend was significantly positive (+), negative (-), or neutral (0).") %>%
+  kableExtra::kable_styling(latex_options = "HOLD_position")
+
+## WA
+tbl_res_WA <- tbl_res %>%
+  filter(state == "WA") %>%
+  select(!(state:domain))
+
+kableExtra::kable(tbl_res_WA, booktabs = TRUE,
+                  col.names = c("Core area", "Lower CI", "Mean", "Upper CI", "Trend"),
+                  align = "lcccc",
+                  caption = "Estimated late period (2008-2020) trends and uncertainty for adult bull trout in core areas in Washington. The trend column indicates if the estimated trend was significantly positive (+), negative (-), or neutral (0).") %>%
+  kableExtra::kable_styling(latex_options = "HOLD_position")
+
+## OR
+tbl_res_OR <- tbl_res %>%
+  filter(state == "OR") %>%
+  select(!(state:domain))
+
+kableExtra::kable(tbl_res_OR, booktabs = TRUE,
+                  col.names = c("Core area", "Lower CI", "Mean", "Upper CI", "Trend"),
+                  align = "lcccc",
+                  caption = "Estimated late period (2008-2020) trends and uncertainty for adult bull trout in core areas in Oregon. The trend column indicates if the estimated trend was significantly positive (+), negative (-), or neutral (0).") %>%
+  kableExtra::kable_styling(latex_options = "HOLD_position")
+
+## get point estimates and CI's
+tbl_res_j <- read.csv(here::here("output", "bull_trout_SSA_all_states_juvenile_late_biases.csv"))
+
+state_core_popn_j <- stringr::str_split_fixed(tbl_res_j$X, pattern = ": ", 3) %>%
+  as.data.frame()
+colnames(state_core_popn_j) <- c("state", "domain", "core")
+
+tbl_res_j <- cbind(state_core_popn_j, tbl_res_j[,-1]) %>%
+  select(!domain)
+
+kableExtra::kable(tbl_res_j, booktabs = TRUE,
+                  col.names = c("State", "Core area", "Lower CI", "Mean", "Upper CI", "Trend"),
+                  align = "llcccc",
+                  caption = "Estimated late period (2008-2020) trends and uncertainty for juvenile bull trout in Idaho, Washington, and Oregon. The trend column indicates if the estimated trend was significantly positive (+), negative (-), or neutral (0).") %>%
+  kableExtra::kable_styling(latex_options = "HOLD_position")
+
+```
+
+

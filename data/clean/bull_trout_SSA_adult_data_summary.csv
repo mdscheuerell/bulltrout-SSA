@@ -1,0 +1,43 @@
+state,recovery_unit,core_area,popn_stream,metric,source,first_year,last_year
+ID,Mid Columbia,Lochsa River,Colt Killed Creek,abundance,screw_trap,1999,2014
+ID,Mid Columbia,Lochsa River,Crooked Fork Creek,abundance,screw_trap,1992,2014
+ID,Mid Columbia,Lochsa River,n/a (Fish Creek),abundance,screw_trap,1998,2019
+ID,Mid Columbia,Selway River,SEL Multiple,abundance,snorkel,1995,2019
+ID,Mid Columbia,South Fork Clearwater,American River,abundance,screw_trap,2004,2014
+ID,Mid Columbia,South Fork Clearwater,Crooked River,abundance,screw_trap,1992,2019
+ID,Mid Columbia,South Fork Clearwater,Multiple,abundance,snorkel,1992,2019
+ID,Mid Columbia,South Fork Clearwater,Red River,abundance,screw_trap,1994,2014
+ID,Upper Snake,Arrowrock,AR Multiple,abundance,electrofishing,1998,2020
+ID,Upper Snake,Lemhi River,Hayden Cr,abundance,screw_trap,2006,2019
+ID,Upper Snake,Lemhi River,Lower Lemhi River,abundance,screw_trap,2006,2019
+ID,Upper Snake,Lemhi River,Upper Lemhi River,abundance,screw_trap,2002,2019
+ID,Upper Snake,Little Lost,LL Multiple,abundance,electrofishing,1995,2018
+ID,Upper Snake,Little-Lower Salmon River,Multiple,abundance,snorkel,1985,2019
+ID,Upper Snake,Little-Lower Salmon River,Rapid River,abundance,screw_trap,2008,2019
+ID,Upper Snake,Mid Salmon - Panther,MSP Multiple,abundance,electrofishing,1997,2019
+ID,Upper Snake,Middle Fork Salmon River,Big Cr,abundance,screw_trap,2007,2019
+ID,Upper Snake,Middle Fork Salmon River,Marsh Creek (upper trap),abundance,screw_trap,1993,2015
+ID,Upper Snake,Middle Fork Salmon River,Marsh Creek lower trap),abundance,screw_trap,2010,2019
+ID,Upper Snake,Middle Fork Salmon River,MFK Multiple,abundance,snorkel,1986,2018
+ID,Upper Snake,Pahsimeroi,Multiple,abundance,electrofishing,2004,2019
+ID,Upper Snake,South Fork Salmon River,Lake Creek,abundance,screw_trap,1997,2013
+ID,Upper Snake,South Fork Salmon River,Sesesh River,abundance,screw_trap,1997,2013
+ID,Upper Snake,South Fork Salmon River,upper South Fork Salmon River,abundance,screw_trap,1992,2014
+ID,Upper Snake,Upper Salmon,East Fork Salmon River,abundance,screw_trap,1993,2014
+ID,Upper Snake,Upper Salmon,Pahsimeroi,abundance,screw_trap,1993,2019
+ID,Upper Snake,Upper Salmon,Upper Salmon (multiple),abundance,screw_trap,1998,2019
+ID,Upper Snake,Upper Salmon,West Fork Yankee Fork,abundance,screw_trap,1998,2014
+ID,Upper Snake,Weiser River,WR Multiple,abundance,snorkel,2004,2020
+OR,Coastal,Odell Lake,Trapper Creek,abundance,snorkel,1996,2017
+WA,Coastal,Dungeness,Dungeness,abundance,trap_count,2005,2020
+WA,Coastal,Lower Skagit River,Lower Skagit River Bull Trout,Catch data,trap_count,1993,2020
+WA,Coastal,Skokomish River,NF Skokomish,abundance,snorkel,2012,2020
+WA,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,abundance,trap_count,2004,2020
+WA,Mid Columbia,Asotin Creek,Asotin Creek Bull Trout,Catch data,electrofishing,2008,2020
+WA,Mid Columbia,Entiat River,Entiat River Bull Trout,Catch data,trap_count,2008,2020
+WA,Mid Columbia,Touchet River,Touchet River Bull Trout,abundance,trap_count,2008,2020
+WA,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,abundance,snorkel,2015,2018
+WA,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Catch data,trap_count,1998,2020
+WA,Mid Columbia,Tucannon River,Tuncannon River Bull Trout,Count data,smolt_trap,1998,2020
+WA,Mid Columbia,Wenatchee River,Chiwawa River Bull Trout,Catch data,trap_count,1997,2020
+WA,Mid Columbia,Wenatchee River,Wenatchee River Bull Trout,Catch data,trap_count,1997,2020
